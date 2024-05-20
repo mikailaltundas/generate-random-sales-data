@@ -1,0 +1,1001 @@
+Date,Product_ID,Product_Name,Category,Unit_Price,Quantity_Sold,Total_Sales,Customer_ID,First_Name,Last_Name,Payment_Type
+2024-05-17,ftY-653316,Laptop,Electronics,1480.85,6,8885.1,CUST-522799,Martha,Schaefer,Debit Card
+2024-05-17,cMR-650251,Laptop,Electronics,1340.55,3,4021.65,CUST-805286,James,Melton,Online Payment
+2024-05-17,Ybt-085602,Puzzle,Toys & Games,14.7,9,132.3,CUST-294697,Ashley,Hopkins,Credit Card
+2024-05-17,BHn-848048,Makeup Kit,Health & Beauty,20.53,9,184.77,CUST-154212,Austin,Williams,Debit Card
+2024-05-17,JFo-859613,Action Figure,Toys & Games,127.78,1,127.78,CUST-987047,Julie,Myers,Online Payment
+2024-05-17,pIj-464226,Lamp,Home & Garden,72.79,4,291.16,CUST-498822,Abigail,Livingston,Online Payment
+2024-05-17,nnL-789449,Camera,Electronics,954.66,7,6682.62,CUST-793267,Christopher,Payne,Credit Card
+2024-05-17,NUt-642875,Video Game,Toys & Games,54.53,4,218.12,CUST-695799,Michael,Garza,Online Payment
+2024-05-17,sEi-973365,Puzzle,Toys & Games,43.52,8,348.16,CUST-828115,Benjamin,Castillo,Credit Card
+2024-05-17,cQU-534903,Dress,Clothing,118.99,5,594.95,CUST-337295,Rachel,Ferguson,Debit Card
+2024-05-17,Qia-396872,Video Game,Toys & Games,57.94,9,521.46,CUST-813037,Catherine,Owens,Cash
+2024-05-17,jNL-859039,Makeup Kit,Health & Beauty,67.49,1,67.49,CUST-812446,Timothy,Smith,Online Payment
+2024-05-17,xWL-474081,Action Figure,Toys & Games,62.87,1,62.87,CUST-075584,Charles,Johnson,Credit Card
+2024-05-17,RzE-217954,Cushion,Home & Garden,44.76,6,268.56,CUST-131749,Julie,Bullock,Debit Card
+2024-05-17,gvi-618864,Sneakers,Clothing,129.65,6,777.9,CUST-280585,Denise,Sellers,Debit Card
+2024-05-17,mxB-699896,Headphones,Electronics,288.25,4,1153.0,CUST-814780,Timothy,Robinson,Credit Card
+2024-05-17,GSJ-578538,Makeup Kit,Health & Beauty,94.19,8,753.52,CUST-727349,Shawn,Mccullough,Cash
+2024-05-17,JzE-453629,Sneakers,Clothing,144.33,8,1154.64,CUST-456214,Lynn,Frazier,Online Payment
+2024-05-17,AvR-259125,Video Game,Toys & Games,55.81,5,279.05,CUST-738614,Erin,Taylor,Online Payment
+2024-05-17,yCk-301744,Camera,Electronics,647.59,4,2590.36,CUST-912470,Larry,Beltran,Debit Card
+2024-05-17,bor-652606,Video Game,Toys & Games,56.8,7,397.6,CUST-602629,Mark,Johnson,Debit Card
+2024-05-17,OAl-356677,Perfume,Health & Beauty,99.15,4,396.6,CUST-931953,James,May,Credit Card
+2024-05-17,Vna-592560,Cushion,Home & Garden,49.36,9,444.24,CUST-497270,Christine,King,Cash
+2024-05-17,Smm-326536,Science Fiction,Books,21.59,9,194.31,CUST-908124,William,Ferguson,Cash
+2024-05-17,Kkt-256668,Jeans,Clothing,87.61,4,350.44,CUST-835621,Adam,Henry,Cash
+2024-05-17,Ohy-341078,Laptop,Electronics,1450.39,7,10152.73,CUST-490797,Tyler,Houston,Credit Card
+2024-05-17,LXJ-762823,Puzzle,Toys & Games,40.88,1,40.88,CUST-908560,Kiara,Jones,Online Payment
+2024-05-17,ORk-263797,Cushion,Home & Garden,13.43,4,53.72,CUST-640706,Samuel,Buchanan,Credit Card
+2024-05-17,HfY-629644,Sneakers,Clothing,137.58,8,1100.64,CUST-018997,Craig,Dean,Debit Card
+2024-05-17,mJB-290969,Novel,Books,11.07,7,77.49,CUST-321668,Brittney,Medina,Credit Card
+2024-05-17,OlJ-413578,Laptop,Electronics,1328.24,2,2656.48,CUST-859234,Christian,Graham,Online Payment
+2024-05-17,JBV-353179,History,Books,46.59,3,139.77,CUST-980705,Heather,Martin,Online Payment
+2024-05-17,YMP-472771,Action Figure,Toys & Games,103.41,3,310.23,CUST-321279,Michelle,Thompson,Online Payment
+2024-05-17,bQL-376617,Action Figure,Toys & Games,149.91,5,749.55,CUST-313460,Jack,Thomas,Credit Card
+2024-05-17,GyW-741320,Video Game,Toys & Games,57.31,6,343.86,CUST-904314,Allison,Evans,Online Payment
+2024-05-17,WAa-639086,Science Fiction,Books,15.23,2,30.46,CUST-371190,Paul,Gutierrez,Credit Card
+2024-05-17,OWt-998061,Perfume,Health & Beauty,119.99,8,959.92,CUST-058391,Jessica,Chandler,Cash
+2024-05-17,zVE-961330,Action Figure,Toys & Games,138.18,5,690.9,CUST-801489,Mia,Foster,Credit Card
+2024-05-17,VOU-064422,Camera,Electronics,365.03,6,2190.18,CUST-570975,Yolanda,Flores,Cash
+2024-05-17,gDl-878862,Headphones,Electronics,250.34,2,500.68,CUST-058014,Taylor,Salazar,Debit Card
+2024-05-17,ZYK-260941,Cushion,Home & Garden,30.39,1,30.39,CUST-261161,David,Henry,Online Payment
+2024-05-17,zZK-011469,Video Game,Toys & Games,56.29,6,337.74,CUST-941769,Samuel,Brown,Credit Card
+2024-05-17,rHj-356836,Sneakers,Clothing,285.97,2,571.94,CUST-136595,Kathleen,Lopez,Online Payment
+2024-05-17,ruS-954883,Chair,Home & Garden,38.4,5,192.0,CUST-528632,Mary,Gomez,Cash
+2024-05-17,Khk-162953,Board Game,Toys & Games,31.48,3,94.44,CUST-140342,Brandon,Moore,Cash
+2024-05-17,Yur-130008,Perfume,Health & Beauty,68.09,9,612.81,CUST-531738,Kimberly,Maynard,Cash
+2024-05-17,FMV-912829,Science Fiction,Books,15.1,5,75.5,CUST-054234,Christina,Thomas,Cash
+2024-05-17,EfI-073962,T-shirt,Clothing,36.43,1,36.43,CUST-111531,Nicole,Conner,Cash
+2024-05-17,hzn-519147,Dress,Clothing,95.52,1,95.52,CUST-329188,Alyssa,Avila,Cash
+2024-05-17,YpP-413488,Shampoo,Health & Beauty,42.82,4,171.28,CUST-899082,Debra,Porter,Online Payment
+2024-05-17,PqG-088234,Makeup Kit,Health & Beauty,57.67,4,230.68,CUST-140976,Eric,Conley,Debit Card
+2024-05-17,PDo-508006,Action Figure,Toys & Games,121.46,4,485.84,CUST-949604,Christopher,Peters,Cash
+2024-05-17,Hsh-012327,Video Game,Toys & Games,55.67,3,167.01,CUST-060908,Hannah,Clark,Debit Card
+2024-05-17,wFz-977664,Action Figure,Toys & Games,45.11,4,180.44,CUST-486352,Nathan,Brown,Online Payment
+2024-05-17,LgT-067762,Shampoo,Health & Beauty,8.91,1,8.91,CUST-692630,Lori,Reynolds,Debit Card
+2024-05-17,Mid-338003,Novel,Books,20.27,3,60.81,CUST-749130,Nicole,Hess,Debit Card
+2024-05-17,BTK-170622,Lamp,Home & Garden,22.7,4,90.8,CUST-428491,Laura,Aguirre,Cash
+2024-05-17,Bnj-273451,Cushion,Home & Garden,38.7,7,270.9,CUST-688383,Dale,Jimenez,Credit Card
+2024-05-17,OBL-693993,Science Fiction,Books,21.34,8,170.72,CUST-211488,Beth,Lewis,Online Payment
+2024-05-17,OJC-816823,Cushion,Home & Garden,14.16,2,28.32,CUST-058184,Shannon,Hart,Online Payment
+2024-05-17,LmU-444991,Laptop,Electronics,579.04,1,579.04,CUST-105126,Catherine,Malone,Cash
+2024-05-17,nFA-264361,Board Game,Toys & Games,45.61,4,182.44,CUST-999702,Matthew,Perez,Credit Card
+2024-05-17,bbw-781668,Laptop,Electronics,625.19,9,5626.71,CUST-803018,Kimberly,Jones,Online Payment
+2024-05-17,snD-804780,Laptop,Electronics,1189.13,8,9513.04,CUST-519658,Ian,Rivas,Online Payment
+2024-05-17,nKd-754474,Action Figure,Toys & Games,44.75,3,134.25,CUST-427725,Daniel,Castaneda,Credit Card
+2024-05-17,FUh-918724,Dress,Clothing,144.63,7,1012.41,CUST-671341,Jacqueline,Snow,Credit Card
+2024-05-17,aym-812351,Biography,Books,20.06,5,100.3,CUST-032015,Thomas,Clark,Debit Card
+2024-05-17,uRh-471362,Chair,Home & Garden,135.65,6,813.9,CUST-961761,James,Barnes,Online Payment
+2024-05-17,CRo-180963,Novel,Books,17.26,1,17.26,CUST-622374,Susan,Richard,Cash
+2024-05-17,WFP-663273,Dress,Clothing,113.48,4,453.92,CUST-555286,Nicholas,Nelson,Debit Card
+2024-05-17,iHi-693515,T-shirt,Clothing,19.64,7,137.48,CUST-161490,Diane,Johnson,Debit Card
+2024-05-17,oBP-950097,Blanket,Home & Garden,26.35,5,131.75,CUST-663305,Jeff,Fisher,Credit Card
+2024-05-17,ioj-688993,History,Books,43.02,3,129.06,CUST-726256,Antonio,Patterson,Credit Card
+2024-05-17,VRb-874601,Biography,Books,37.54,9,337.86,CUST-730765,Charles,Turner,Credit Card
+2024-05-17,Pxg-603390,Headphones,Electronics,126.6,1,126.6,CUST-331590,Andrea,Maldonado,Credit Card
+2024-05-17,gGl-523310,Sneakers,Clothing,97.25,1,97.25,CUST-715365,Christopher,Clayton,Debit Card
+2024-05-17,gBq-415227,Jeans,Clothing,76.98,7,538.86,CUST-261987,Michael,Nguyen,Online Payment
+2024-05-17,awu-959485,Smartphone,Electronics,801.03,2,1602.06,CUST-041472,Brandon,Carroll,Credit Card
+2024-05-17,Imv-533219,Sneakers,Clothing,167.74,8,1341.92,CUST-847508,Matthew,Juarez,Debit Card
+2024-05-17,wJq-163240,Makeup Kit,Health & Beauty,83.45,4,333.8,CUST-487630,Debra,Powell,Cash
+2024-05-17,lMx-254932,Shampoo,Health & Beauty,49.74,4,198.96,CUST-748796,Stacy,Johnson,Debit Card
+2024-05-17,gIu-766157,Makeup Kit,Health & Beauty,33.61,2,67.22,CUST-094979,Craig,Frye,Online Payment
+2024-05-17,ZWQ-682061,Science Fiction,Books,10.2,6,61.2,CUST-132859,Matthew,Sampson,Cash
+2024-05-17,Jjp-403989,Video Game,Toys & Games,54.33,5,271.65,CUST-893636,Clifford,Tran,Online Payment
+2024-05-17,fgs-426366,Shampoo,Health & Beauty,12.71,3,38.13,CUST-993172,Carl,Kane,Online Payment
+2024-05-17,XnK-292966,Makeup Kit,Health & Beauty,67.54,3,202.62,CUST-089212,David,Bush,Debit Card
+2024-05-17,jwu-458041,Puzzle,Toys & Games,22.33,5,111.65,CUST-136292,Zoe,Hines,Online Payment
+2024-05-17,vog-260857,Blanket,Home & Garden,33.62,4,134.48,CUST-013717,Taylor,Richardson,Cash
+2024-05-17,bCE-387905,History,Books,27.94,5,139.7,CUST-592158,Justin,Wang,Debit Card
+2024-05-17,Cno-274798,Laptop,Electronics,1470.18,9,13231.62,CUST-871498,Richard,Valencia,Debit Card
+2024-05-17,XDI-192826,Biography,Books,25.31,6,151.86,CUST-127290,Tonya,Sutton,Credit Card
+2024-05-17,Kjr-874453,Dress,Clothing,53.2,5,266.0,CUST-832333,Margaret,Garcia,Cash
+2024-05-17,nxp-329229,T-shirt,Clothing,31.28,6,187.68,CUST-678079,Allison,Payne,Debit Card
+2024-05-17,oCJ-819119,Blanket,Home & Garden,74.9,9,674.1,CUST-159995,Tara,Brown,Cash
+2024-05-17,cVf-820818,Chair,Home & Garden,119.78,3,359.34,CUST-384978,Sydney,Pennington,Cash
+2024-05-17,Igr-603228,History,Books,26.54,5,132.7,CUST-713301,Patricia,Bennett,Debit Card
+2024-05-17,YYc-919496,Science Fiction,Books,20.53,3,61.59,CUST-978586,Andrew,Herrera,Online Payment
+2024-05-17,Cij-496877,Novel,Books,13.48,5,67.4,CUST-893064,Stephanie,Rodgers,Debit Card
+2024-05-17,YEm-230443,Video Game,Toys & Games,56.39,3,169.17,CUST-153589,William,Wilson,Debit Card
+2024-05-17,cyR-057250,Novel,Books,29.85,4,119.4,CUST-985765,Alexis,Hunt,Online Payment
+2024-05-17,epq-303979,T-shirt,Clothing,39.64,2,79.28,CUST-115076,Randall,Gray,Debit Card
+2024-05-17,Zdd-991101,Blanket,Home & Garden,90.04,5,450.2,CUST-782480,Sean,Young,Debit Card
+2024-05-17,mnC-589299,Makeup Kit,Health & Beauty,80.7,8,645.6,CUST-492912,Alexander,Stewart,Cash
+2024-05-17,sDy-950519,Jeans,Clothing,79.67,8,637.36,CUST-261860,Cassandra,Bernard,Credit Card
+2024-05-17,IAb-334281,Camera,Electronics,541.61,5,2708.05,CUST-988891,Bob,Jenkins,Credit Card
+2024-05-17,ubf-923405,Science Fiction,Books,16.28,3,48.84,CUST-165411,Angela,Johnson,Debit Card
+2024-05-17,stJ-518855,Sneakers,Clothing,296.44,2,592.88,CUST-594192,Edward,Little,Debit Card
+2024-05-17,mWT-700541,Headphones,Electronics,251.32,2,502.64,CUST-751384,Ashley,Pratt,Credit Card
+2024-05-17,aam-997962,Cushion,Home & Garden,20.07,8,160.56,CUST-661590,Michelle,Cole,Credit Card
+2024-05-17,Gki-000607,Novel,Books,27.0,2,54.0,CUST-326413,Emily,Smith,Credit Card
+2024-05-17,xOW-859993,Skin Cream,Health & Beauty,67.92,7,475.44,CUST-320296,Misty,Harrington,Debit Card
+2024-05-17,Rlq-506635,T-shirt,Clothing,37.6,7,263.2,CUST-247824,Thomas,Wilson,Debit Card
+2024-05-17,UnS-839883,Board Game,Toys & Games,28.43,1,28.43,CUST-214611,Janet,Ward,Online Payment
+2024-05-17,GYH-628484,Perfume,Health & Beauty,184.72,1,184.72,CUST-854205,Summer,Hopkins,Credit Card
+2024-05-17,eji-794117,Board Game,Toys & Games,42.02,3,126.06,CUST-635413,Susan,Lozano,Online Payment
+2024-05-17,hzT-168801,Laptop,Electronics,1436.62,7,10056.34,CUST-541521,Jason,Mitchell,Debit Card
+2024-05-17,OAb-245556,Jeans,Clothing,48.22,4,192.88,CUST-918918,Megan,Taylor,Credit Card
+2024-05-17,iOP-913686,Skin Cream,Health & Beauty,35.4,5,177.0,CUST-350608,Joshua,Cunningham,Online Payment
+2024-05-17,FPj-738761,Sneakers,Clothing,166.93,2,333.86,CUST-021080,Brent,White,Debit Card
+2024-05-17,ltC-624679,Sneakers,Clothing,59.72,8,477.76,CUST-336739,Leah,Morris,Cash
+2024-05-17,eMC-108796,Puzzle,Toys & Games,42.83,2,85.66,CUST-611201,Jonathan,Thompson,Cash
+2024-05-17,qhq-401343,Novel,Books,21.52,1,21.52,CUST-507849,Maria,White,Credit Card
+2024-05-17,sJv-212219,T-shirt,Clothing,43.85,1,43.85,CUST-283268,Melinda,Parker,Credit Card
+2024-05-17,DEd-976610,Science Fiction,Books,14.11,7,98.77,CUST-764630,Holly,Reeves,Credit Card
+2024-05-17,PBq-860308,Makeup Kit,Health & Beauty,96.89,3,290.67,CUST-164820,Amy,Patterson,Credit Card
+2024-05-17,pkC-014559,Board Game,Toys & Games,31.23,8,249.84,CUST-511571,David,Mitchell,Credit Card
+2024-05-17,OgP-743633,Camera,Electronics,358.45,6,2150.7,CUST-919968,Michael,Serrano,Online Payment
+2024-05-17,bfS-604468,Novel,Books,18.45,3,55.35,CUST-179778,Toni,Henson,Cash
+2024-05-17,AvW-426697,Blanket,Home & Garden,17.18,2,34.36,CUST-526977,Jamie,Mathews,Debit Card
+2024-05-17,blN-553475,Blanket,Home & Garden,53.16,8,425.28,CUST-082312,William,Acevedo,Online Payment
+2024-05-17,UMH-561120,Perfume,Health & Beauty,148.5,9,1336.5,CUST-401397,Kara,Sawyer,Credit Card
+2024-05-17,jpO-920883,Makeup Kit,Health & Beauty,96.41,6,578.46,CUST-646438,Michael,Montes,Debit Card
+2024-05-17,frS-168376,Jeans,Clothing,71.42,5,357.1,CUST-538206,Andrew,Moreno,Debit Card
+2024-05-17,vOP-277239,Perfume,Health & Beauty,112.43,2,224.86,CUST-594966,Robert,Johns,Online Payment
+2024-05-17,XoV-746511,Skin Cream,Health & Beauty,14.12,1,14.12,CUST-110791,Jeffery,Black,Debit Card
+2024-05-17,BTB-922092,Action Figure,Toys & Games,146.85,4,587.4,CUST-004629,Tammy,Larson,Debit Card
+2024-05-17,uCF-308594,Cushion,Home & Garden,36.23,6,217.38,CUST-670321,Jerome,Coffey,Cash
+2024-05-17,Tud-305271,Blanket,Home & Garden,69.41,4,277.64,CUST-186872,Joseph,Carter,Debit Card
+2024-05-17,nbe-823412,Lamp,Home & Garden,146.35,1,146.35,CUST-800843,Jim,Martin,Debit Card
+2024-05-17,pxi-049772,Video Game,Toys & Games,55.45,7,388.15,CUST-370002,Tracy,Johnston,Cash
+2024-05-17,Vea-018556,Novel,Books,14.35,4,57.4,CUST-568103,Leslie,George,Debit Card
+2024-05-17,AQh-149892,Smartphone,Electronics,839.96,3,2519.88,CUST-880749,Denise,Campbell,Debit Card
+2024-05-17,PRJ-292857,Skin Cream,Health & Beauty,14.61,5,73.05,CUST-903696,Jennifer,Davis,Debit Card
+2024-05-17,Fbs-263606,Action Figure,Toys & Games,109.94,2,219.88,CUST-523314,Walter,Meyer,Credit Card
+2024-05-17,fpI-668552,Lamp,Home & Garden,47.62,3,142.86,CUST-440609,Melissa,Obrien,Credit Card
+2024-05-17,wGc-373514,Sneakers,Clothing,212.61,7,1488.27,CUST-107711,Jennifer,Merritt,Online Payment
+2024-05-17,SJg-681279,Perfume,Health & Beauty,136.14,5,680.7,CUST-863849,Robert,Reese,Credit Card
+2024-05-17,EDY-531333,T-shirt,Clothing,45.23,2,90.46,CUST-262018,Jim,Drake,Online Payment
+2024-05-17,FOr-019479,Biography,Books,35.47,4,141.88,CUST-261357,Charles,Russell,Online Payment
+2024-05-17,MRw-082989,Biography,Books,39.39,6,236.34,CUST-792506,Brenda,Humphrey,Debit Card
+2024-05-17,PUF-324768,Camera,Electronics,1055.64,8,8445.12,CUST-632723,Nicole,Daniel,Online Payment
+2024-05-17,Vpg-116735,Laptop,Electronics,1097.75,1,1097.75,CUST-779630,Alexandra,Bryant,Credit Card
+2024-05-17,HBu-076405,Science Fiction,Books,15.74,8,125.92,CUST-096405,Angelica,Armstrong,Online Payment
+2024-05-17,qcb-252881,Skin Cream,Health & Beauty,13.38,8,107.04,CUST-016212,Tanner,Blair,Credit Card
+2024-05-17,tiM-523760,Cushion,Home & Garden,6.92,7,48.44,CUST-743930,Denise,Perez,Debit Card
+2024-05-17,LDW-601391,Science Fiction,Books,13.46,4,53.84,CUST-746616,Daniel,Martinez,Cash
+2024-05-17,Wsk-224959,Skin Cream,Health & Beauty,32.6,5,163.0,CUST-981977,Emily,Zamora,Cash
+2024-05-17,Lcw-931602,Makeup Kit,Health & Beauty,98.16,8,785.28,CUST-176413,Virginia,Evans,Credit Card
+2024-05-17,uDD-240929,Makeup Kit,Health & Beauty,80.65,2,161.3,CUST-469383,Richard,Mann,Credit Card
+2024-05-17,ONF-089863,Perfume,Health & Beauty,175.08,1,175.08,CUST-614831,Diana,Garcia,Online Payment
+2024-05-17,lyM-980978,Laptop,Electronics,899.57,9,8096.13,CUST-289948,Pamela,Garza,Credit Card
+2024-05-17,jZn-143987,Biography,Books,17.9,6,107.4,CUST-429260,Audrey,Grant,Online Payment
+2024-05-17,rTT-028126,Cushion,Home & Garden,36.64,5,183.2,CUST-404333,Jessica,Barnes,Cash
+2024-05-17,hcA-103926,Sneakers,Clothing,291.57,5,1457.85,CUST-554685,David,Hayden,Cash
+2024-05-17,PkS-274224,Lamp,Home & Garden,44.36,1,44.36,CUST-810219,William,Haynes,Debit Card
+2024-05-17,cGO-284319,Cushion,Home & Garden,24.04,5,120.2,CUST-475285,Ross,Lopez,Cash
+2024-05-17,DQd-483759,Makeup Kit,Health & Beauty,94.19,4,376.76,CUST-916506,Holly,Blankenship,Credit Card
+2024-05-17,ijS-357741,Science Fiction,Books,14.72,1,14.72,CUST-996210,John,Harrison,Debit Card
+2024-05-17,loi-790579,Smartphone,Electronics,475.56,8,3804.48,CUST-840623,Deborah,Stewart,Credit Card
+2024-05-17,ZBe-378059,Camera,Electronics,271.55,3,814.65,CUST-397171,Mike,Richard,Debit Card
+2024-05-17,uPf-051616,Chair,Home & Garden,73.19,8,585.52,CUST-499617,Denise,Watson,Cash
+2024-05-17,fKo-922617,Laptop,Electronics,1630.4,7,11412.8,CUST-747844,Kenneth,White,Online Payment
+2024-05-17,qPc-794715,History,Books,35.07,3,105.21,CUST-183693,Garrett,Wells,Debit Card
+2024-05-17,kVv-630685,Novel,Books,23.74,1,23.74,CUST-956980,Matthew,Ray,Credit Card
+2024-05-17,lzz-822587,Cushion,Home & Garden,29.12,1,29.12,CUST-659062,David,Rojas,Debit Card
+2024-05-17,hPe-596671,Perfume,Health & Beauty,115.01,8,920.08,CUST-043498,Juan,Romero,Credit Card
+2024-05-17,SCO-018655,Action Figure,Toys & Games,20.37,8,162.96,CUST-902585,Hannah,Greene,Cash
+2024-05-17,Wqr-480376,Video Game,Toys & Games,58.78,6,352.68,CUST-922028,Cynthia,Munoz,Cash
+2024-05-17,Wmt-827619,Lamp,Home & Garden,135.58,6,813.48,CUST-074543,Janice,Hawkins,Debit Card
+2024-05-17,RoN-672027,Blanket,Home & Garden,44.23,1,44.23,CUST-306677,Colleen,Johnson,Cash
+2024-05-17,DqV-964645,Laptop,Electronics,1236.24,3,3708.72,CUST-784583,Joseph,Norris,Credit Card
+2024-05-17,kVj-697888,History,Books,40.45,6,242.7,CUST-068683,Jesse,Martin,Online Payment
+2024-05-17,WSX-844632,Action Figure,Toys & Games,53.33,9,479.97,CUST-028292,Carol,Francis,Online Payment
+2024-05-17,yiZ-142905,Cushion,Home & Garden,19.16,6,114.96,CUST-236573,Jeffrey,Hess,Debit Card
+2024-05-17,vAP-759868,Sneakers,Clothing,68.03,2,136.06,CUST-888167,Wyatt,Ray,Credit Card
+2024-05-17,ltv-197060,Smartphone,Electronics,397.16,6,2382.96,CUST-337483,Jeremy,Craig,Credit Card
+2024-05-17,yWq-585156,Blanket,Home & Garden,51.48,4,205.92,CUST-907889,Mariah,English,Online Payment
+2024-05-17,cYI-836077,T-shirt,Clothing,13.22,1,13.22,CUST-617136,Jack,Anderson,Debit Card
+2024-05-17,DJQ-831300,Puzzle,Toys & Games,11.89,2,23.78,CUST-309244,John,Stein,Debit Card
+2024-05-17,hkH-102412,Chair,Home & Garden,153.0,3,459.0,CUST-026643,Jeffrey,Brown,Debit Card
+2024-05-17,Jko-396161,Perfume,Health & Beauty,177.23,5,886.15,CUST-421923,Lauren,Woodard,Cash
+2024-05-17,SlB-700051,Novel,Books,29.39,6,176.34,CUST-625986,Felicia,Wilkins,Online Payment
+2024-05-17,qat-838958,Dress,Clothing,181.08,9,1629.72,CUST-504317,Amber,Collier,Cash
+2024-05-17,fQc-171605,Skin Cream,Health & Beauty,38.4,6,230.4,CUST-122084,Jennifer,Crawford,Debit Card
+2024-05-17,eGG-339235,Smartphone,Electronics,636.95,1,636.95,CUST-054432,Amanda,Cross,Debit Card
+2024-05-17,vyx-334717,Board Game,Toys & Games,30.52,8,244.16,CUST-188686,Daniel,Harper,Debit Card
+2024-05-17,oRY-560650,Novel,Books,17.32,5,86.6,CUST-884761,Mark,Ryan,Debit Card
+2024-05-17,JtO-187580,T-shirt,Clothing,34.6,7,242.2,CUST-727725,Jesse,Rodriguez,Credit Card
+2024-05-17,jHm-441603,Video Game,Toys & Games,50.73,1,50.73,CUST-892806,Jeffrey,Peters,Online Payment
+2024-05-17,MAd-967806,Novel,Books,13.89,4,55.56,CUST-600629,Catherine,Rodgers,Cash
+2024-05-17,XCQ-993172,History,Books,26.5,9,238.5,CUST-868921,Robert,Jordan,Online Payment
+2024-05-17,dbQ-635314,Jeans,Clothing,86.7,3,260.1,CUST-931531,Elizabeth,Singh,Credit Card
+2024-05-17,aCG-364923,Science Fiction,Books,14.53,2,29.06,CUST-473988,Lindsay,Orr,Cash
+2024-05-17,hFR-062747,Board Game,Toys & Games,23.67,6,142.02,CUST-488315,Zoe,Johnson,Debit Card
+2024-05-17,yaK-277581,Perfume,Health & Beauty,86.69,4,346.76,CUST-919774,Sherry,Lopez,Online Payment
+2024-05-17,VmC-186042,Shampoo,Health & Beauty,48.52,9,436.68,CUST-296505,Betty,Jenkins,Online Payment
+2024-05-17,JOd-458587,Blanket,Home & Garden,84.53,5,422.65,CUST-752357,Michael,Riddle,Cash
+2024-05-17,kmt-551364,T-shirt,Clothing,35.89,6,215.34,CUST-494223,Sandra,Weber,Online Payment
+2024-05-17,Czo-681686,Biography,Books,36.39,8,291.12,CUST-593803,Brian,Roberts,Credit Card
+2024-05-17,zVF-571678,Cushion,Home & Garden,14.48,3,43.44,CUST-820768,John,Roberts,Debit Card
+2024-05-17,hdA-111755,Makeup Kit,Health & Beauty,87.56,4,350.24,CUST-143362,Tonya,Bennett,Credit Card
+2024-05-17,Ftt-775186,Science Fiction,Books,25.19,2,50.38,CUST-701939,Faith,Green,Cash
+2024-05-17,VYk-049227,Makeup Kit,Health & Beauty,61.52,2,123.04,CUST-796006,Andrew,Green,Credit Card
+2024-05-17,tkR-328828,Perfume,Health & Beauty,154.92,9,1394.28,CUST-364118,Jean,Roberts,Debit Card
+2024-05-17,OeJ-684484,Action Figure,Toys & Games,23.0,7,161.0,CUST-802751,Wanda,Munoz,Cash
+2024-05-17,Alk-451769,T-shirt,Clothing,15.04,1,15.04,CUST-586393,Holly,Anderson,Online Payment
+2024-05-17,JoF-228456,Camera,Electronics,988.81,1,988.81,CUST-475128,Zoe,Weaver,Debit Card
+2024-05-17,bWr-773821,Camera,Electronics,1093.11,2,2186.22,CUST-116772,Alexandra,Ritter,Online Payment
+2024-05-17,Jxa-952668,Blanket,Home & Garden,21.63,9,194.67,CUST-193031,Stephen,Edwards,Credit Card
+2024-05-17,IAF-172091,Camera,Electronics,312.55,6,1875.3,CUST-974470,Rebecca,Andersen,Online Payment
+2024-05-17,fcn-706422,Camera,Electronics,1249.82,2,2499.64,CUST-175534,Kevin,Scott,Online Payment
+2024-05-17,POZ-193536,Blanket,Home & Garden,49.98,6,299.88,CUST-318344,Sarah,Stewart,Online Payment
+2024-05-17,yhD-177389,Action Figure,Toys & Games,56.48,1,56.48,CUST-667011,Jessica,Garza,Cash
+2024-05-17,ipc-638343,Camera,Electronics,853.95,3,2561.85,CUST-660138,David,Larson,Credit Card
+2024-05-17,Fta-690781,T-shirt,Clothing,43.23,5,216.15,CUST-636994,Alexis,Howard,Credit Card
+2024-05-17,YzP-139292,T-shirt,Clothing,10.89,9,98.01,CUST-554753,Jay,Hess,Online Payment
+2024-05-17,BVg-069462,History,Books,32.93,4,131.72,CUST-886968,Carrie,Guerra,Credit Card
+2024-05-17,dVq-689598,Board Game,Toys & Games,53.58,6,321.48,CUST-871340,Alex,Sims,Debit Card
+2024-05-17,xpQ-067938,Chair,Home & Garden,136.73,5,683.65,CUST-050597,Teresa,Gomez,Online Payment
+2024-05-17,dDK-168761,Puzzle,Toys & Games,30.08,3,90.24,CUST-997987,Jamie,Johnson,Debit Card
+2024-05-17,nxu-474177,Board Game,Toys & Games,38.77,1,38.77,CUST-724449,David,Turner,Online Payment
+2024-05-17,uJn-804912,Video Game,Toys & Games,52.55,5,262.75,CUST-408246,Amber,Coleman,Online Payment
+2024-05-17,lhW-682674,Science Fiction,Books,28.19,1,28.19,CUST-992418,Travis,Adams,Cash
+2024-05-17,xuI-857299,Science Fiction,Books,11.37,3,34.11,CUST-251445,Tracy,Murphy,Credit Card
+2024-05-17,tno-205257,Camera,Electronics,350.33,4,1401.32,CUST-006442,Jessica,Cook,Cash
+2024-05-17,JfD-399169,Biography,Books,26.09,3,78.27,CUST-865197,Carrie,Davis,Cash
+2024-05-17,FfM-066299,T-shirt,Clothing,31.65,7,221.55,CUST-256257,Dennis,Reyes,Online Payment
+2024-05-17,RYN-764501,Video Game,Toys & Games,51.89,6,311.34,CUST-181461,Stephen,Hill,Credit Card
+2024-05-17,ahT-864741,Puzzle,Toys & Games,49.36,4,197.44,CUST-661384,Angela,Abbott,Credit Card
+2024-05-17,lVt-284650,Makeup Kit,Health & Beauty,56.76,1,56.76,CUST-223505,Michael,Peters,Credit Card
+2024-05-17,RRu-957775,Puzzle,Toys & Games,28.63,7,200.41,CUST-966432,Jason,Watkins,Debit Card
+2024-05-17,Xzy-879599,Chair,Home & Garden,145.16,8,1161.28,CUST-253572,James,Jordan,Cash
+2024-05-17,UqA-745948,Camera,Electronics,1287.11,5,6435.55,CUST-744039,Amanda,Chavez,Cash
+2024-05-17,WjH-892774,T-shirt,Clothing,37.81,4,151.24,CUST-169046,Michelle,Levy,Credit Card
+2024-05-17,oJG-947342,Skin Cream,Health & Beauty,46.64,2,93.28,CUST-449216,Leslie,Lozano,Debit Card
+2024-05-17,evK-644617,Camera,Electronics,859.32,5,4296.6,CUST-071575,Wayne,White,Online Payment
+2024-05-17,bcZ-583232,Headphones,Electronics,165.84,7,1160.88,CUST-736664,Dustin,Villarreal,Credit Card
+2024-05-17,RDE-952570,Lamp,Home & Garden,46.57,3,139.71,CUST-059683,Edward,Kaufman,Online Payment
+2024-05-17,tSy-901561,Board Game,Toys & Games,39.51,9,355.59,CUST-009599,Aaron,Jefferson,Online Payment
+2024-05-17,tLO-169611,Smartphone,Electronics,868.46,1,868.46,CUST-220193,Jacqueline,Guzman,Online Payment
+2024-05-17,IGp-974213,Skin Cream,Health & Beauty,44.03,1,44.03,CUST-203116,Jay,Callahan,Credit Card
+2024-05-17,gQL-280751,Dress,Clothing,108.43,6,650.58,CUST-015218,Richard,Hanna,Cash
+2024-05-17,Rdp-189467,Action Figure,Toys & Games,126.07,2,252.14,CUST-944821,Edward,Lamb,Cash
+2024-05-17,pIS-562299,Cushion,Home & Garden,48.78,4,195.12,CUST-013795,Carmen,Martin,Credit Card
+2024-05-17,MaO-751345,Shampoo,Health & Beauty,44.97,4,179.88,CUST-807630,Nicholas,Randall,Credit Card
+2024-05-17,sux-238267,Board Game,Toys & Games,34.77,6,208.62,CUST-753045,Jessica,Harris,Credit Card
+2024-05-17,lJO-234001,Makeup Kit,Health & Beauty,60.6,5,303.0,CUST-798707,David,Stevenson,Online Payment
+2024-05-17,GQc-774015,Perfume,Health & Beauty,30.81,1,30.81,CUST-356146,Kayla,Martin,Credit Card
+2024-05-17,Jlz-207892,Action Figure,Toys & Games,48.27,1,48.27,CUST-216285,Lindsey,White,Online Payment
+2024-05-17,SUd-062840,History,Books,47.71,3,143.13,CUST-315593,Edward,Becker,Credit Card
+2024-05-17,pgS-350534,T-shirt,Clothing,15.6,3,46.8,CUST-645904,Sara,Butler,Debit Card
+2024-05-17,ATE-466319,Jeans,Clothing,78.65,7,550.55,CUST-939526,Robert,Thompson,Online Payment
+2024-05-17,YAM-464034,Sneakers,Clothing,212.46,2,424.92,CUST-820203,Annette,Brown,Debit Card
+2024-05-17,BrL-014564,Makeup Kit,Health & Beauty,38.66,5,193.3,CUST-199918,Denise,Jacobs,Debit Card
+2024-05-17,ZtK-900308,Novel,Books,29.83,7,208.81,CUST-911583,Tanya,Arias,Debit Card
+2024-05-17,wNT-601630,Science Fiction,Books,12.66,3,37.98,CUST-915365,Michael,Williams,Credit Card
+2024-05-17,WWS-410724,Lamp,Home & Garden,30.93,5,154.65,CUST-729181,Dawn,Ritter,Debit Card
+2024-05-17,lWE-912655,Makeup Kit,Health & Beauty,68.91,5,344.55,CUST-960349,Frank,Brock,Debit Card
+2024-05-17,pNp-764215,Headphones,Electronics,60.0,4,240.0,CUST-901967,Paul,Krueger,Debit Card
+2024-05-17,YVG-186794,Perfume,Health & Beauty,148.15,9,1333.35,CUST-291954,Shannon,Stout,Debit Card
+2024-05-17,uYH-139227,Board Game,Toys & Games,51.09,6,306.54,CUST-228649,Christina,Chavez,Cash
+2024-05-17,sYN-693356,Lamp,Home & Garden,75.23,1,75.23,CUST-261797,Charles,Dillon,Debit Card
+2024-05-17,KRF-587977,Biography,Books,36.93,9,332.37,CUST-892807,Marc,Miller,Online Payment
+2024-05-17,xSl-470247,Sneakers,Clothing,197.63,5,988.15,CUST-821823,Angela,Chen,Online Payment
+2024-05-17,phJ-810365,Laptop,Electronics,963.39,5,4816.95,CUST-956408,Matthew,Mann,Cash
+2024-05-17,vGl-303156,Video Game,Toys & Games,50.31,4,201.24,CUST-936178,Kayla,Roberts,Debit Card
+2024-05-17,DBS-382043,Dress,Clothing,106.43,6,638.58,CUST-398317,Matthew,Lewis,Credit Card
+2024-05-17,ayx-762720,Shampoo,Health & Beauty,37.09,7,259.63,CUST-408658,Jessica,Robinson,Credit Card
+2024-05-17,pHz-771253,Headphones,Electronics,224.03,6,1344.18,CUST-435254,Evan,Bailey,Online Payment
+2024-05-17,doN-095499,Camera,Electronics,216.82,2,433.64,CUST-033796,Molly,Curry,Cash
+2024-05-17,HXL-800268,Skin Cream,Health & Beauty,16.73,9,150.57,CUST-217613,Jennifer,Bryan,Cash
+2024-05-17,EvT-831446,Board Game,Toys & Games,38.7,8,309.6,CUST-572603,Colleen,Johnson,Debit Card
+2024-05-17,chX-985337,Sneakers,Clothing,268.95,5,1344.75,CUST-484451,Stephen,Chavez,Cash
+2024-05-17,xjA-881512,Action Figure,Toys & Games,124.24,7,869.68,CUST-737476,Ruth,Lozano,Debit Card
+2024-05-17,daz-931114,Science Fiction,Books,28.1,9,252.9,CUST-983418,Theresa,Goodwin,Cash
+2024-05-17,HRW-953911,Biography,Books,20.47,3,61.41,CUST-914096,Jacob,Kelly,Debit Card
+2024-05-17,xSc-748383,Chair,Home & Garden,105.21,8,841.68,CUST-841693,Angela,Reyes,Debit Card
+2024-05-17,QwX-099686,Action Figure,Toys & Games,142.09,3,426.27,CUST-737009,Christopher,Campbell,Debit Card
+2024-05-17,GOO-870829,Laptop,Electronics,513.86,8,4110.88,CUST-825468,Brittany,Kelley,Debit Card
+2024-05-17,Owp-508526,Skin Cream,Health & Beauty,62.87,9,565.83,CUST-525553,Danny,Dennis,Debit Card
+2024-05-17,woV-748518,Skin Cream,Health & Beauty,37.23,5,186.15,CUST-829394,Caleb,Stewart,Credit Card
+2024-05-17,hcE-288707,Science Fiction,Books,19.66,5,98.3,CUST-485569,Christopher,Garcia,Online Payment
+2024-05-17,KAI-389438,Chair,Home & Garden,145.64,6,873.84,CUST-371351,Daniel,Brooks,Cash
+2024-05-17,Etj-791668,Camera,Electronics,776.3,9,6986.7,CUST-326826,Adam,Anderson,Cash
+2024-05-17,KQF-418674,Headphones,Electronics,91.94,3,275.82,CUST-361540,Adam,Bates,Credit Card
+2024-05-17,ldA-682140,Cushion,Home & Garden,17.56,5,87.8,CUST-036119,James,Weeks,Debit Card
+2024-05-17,ZXj-233211,Puzzle,Toys & Games,28.69,1,28.69,CUST-412604,Riley,Leonard,Cash
+2024-05-17,bNw-658787,Makeup Kit,Health & Beauty,68.33,1,68.33,CUST-802985,Jacqueline,English,Credit Card
+2024-05-17,gMc-822617,Makeup Kit,Health & Beauty,54.28,8,434.24,CUST-134927,Richard,Romero,Cash
+2024-05-17,RFM-532302,Puzzle,Toys & Games,48.64,9,437.76,CUST-081525,Richard,Wilson,Debit Card
+2024-05-17,wrf-346109,T-shirt,Clothing,12.74,9,114.66,CUST-190596,Cory,Williams,Online Payment
+2024-05-17,neD-536498,Board Game,Toys & Games,41.38,1,41.38,CUST-234960,Alyssa,Jimenez,Credit Card
+2024-05-17,YDI-639157,Camera,Electronics,925.68,7,6479.76,CUST-516201,Stephanie,Woodard,Debit Card
+2024-05-17,Cmn-642382,Chair,Home & Garden,43.54,9,391.86,CUST-878877,Erica,Brown,Online Payment
+2024-05-17,vNU-797885,Lamp,Home & Garden,39.12,1,39.12,CUST-570732,Savannah,Carter,Debit Card
+2024-05-17,gXo-360522,Sneakers,Clothing,131.3,4,525.2,CUST-401360,Jason,Johnson,Credit Card
+2024-05-17,WqQ-663069,Smartphone,Electronics,292.14,1,292.14,CUST-603015,Susan,Johnson,Debit Card
+2024-05-17,pbz-299452,Board Game,Toys & Games,40.48,3,121.44,CUST-504592,Bradley,Krause,Cash
+2024-05-17,zol-195020,Dress,Clothing,91.56,1,91.56,CUST-289569,Stephen,White,Debit Card
+2024-05-17,hka-695336,Chair,Home & Garden,102.42,7,716.94,CUST-055412,Amanda,Flynn,Debit Card
+2024-05-17,EYM-414760,Chair,Home & Garden,190.43,5,952.15,CUST-403501,Jesus,Collins,Debit Card
+2024-05-17,bzy-533873,Cushion,Home & Garden,49.65,2,99.3,CUST-425115,Denise,Martin,Credit Card
+2024-05-17,atD-297080,Headphones,Electronics,159.38,9,1434.42,CUST-910275,Amy,Vasquez,Online Payment
+2024-05-17,GLa-535942,Skin Cream,Health & Beauty,65.29,9,587.61,CUST-228177,Crystal,Olson,Online Payment
+2024-05-17,yRM-263719,T-shirt,Clothing,27.94,3,83.82,CUST-004861,Malik,Jones,Debit Card
+2024-05-17,mVY-809281,Smartphone,Electronics,248.13,6,1488.78,CUST-090095,David,Boyd,Credit Card
+2024-05-17,bia-889770,Puzzle,Toys & Games,17.31,6,103.86,CUST-562646,Jessica,Bowers,Online Payment
+2024-05-17,oxj-108063,Jeans,Clothing,55.3,5,276.5,CUST-915909,Preston,Kane,Debit Card
+2024-05-17,GKi-053875,Makeup Kit,Health & Beauty,26.45,3,79.35,CUST-113844,Dustin,Ray,Cash
+2024-05-17,nfL-315730,Dress,Clothing,56.58,7,396.06,CUST-068637,Judy,Love,Online Payment
+2024-05-17,NuR-873625,Chair,Home & Garden,130.67,1,130.67,CUST-191325,Stacey,Francis,Cash
+2024-05-17,viR-848035,Video Game,Toys & Games,52.03,4,208.12,CUST-890960,Nicholas,Parsons,Cash
+2024-05-17,bpj-929934,Science Fiction,Books,14.61,5,73.05,CUST-081878,Carl,Hernandez,Cash
+2024-05-17,vIc-108812,Board Game,Toys & Games,59.39,7,415.73,CUST-181794,Benjamin,Garcia,Cash
+2024-05-17,CZF-847012,T-shirt,Clothing,13.49,2,26.98,CUST-125967,Christopher,Allen,Online Payment
+2024-05-17,xcC-185454,Skin Cream,Health & Beauty,17.0,7,119.0,CUST-932716,Erin,Fernandez,Debit Card
+2024-05-17,QWp-733484,Biography,Books,27.43,7,192.01,CUST-573711,Jeffrey,Adams,Credit Card
+2024-05-17,Eyi-212881,Board Game,Toys & Games,41.9,1,41.9,CUST-091176,Jessica,Mueller,Online Payment
+2024-05-17,hzK-553855,Puzzle,Toys & Games,28.94,4,115.76,CUST-392391,Tonya,Morales,Debit Card
+2024-05-17,DZz-275370,T-shirt,Clothing,24.9,7,174.3,CUST-780409,Gregory,Brown,Debit Card
+2024-05-17,pWX-528154,Dress,Clothing,135.85,2,271.7,CUST-578912,Peter,Schneider,Cash
+2024-05-17,tyY-526600,Biography,Books,28.6,7,200.2,CUST-432825,Timothy,Potts,Debit Card
+2024-05-17,lSP-820505,Shampoo,Health & Beauty,6.37,4,25.48,CUST-995733,Ryan,Medina,Cash
+2024-05-17,icC-705966,Skin Cream,Health & Beauty,12.23,8,97.84,CUST-700304,Clinton,Ritter,Cash
+2024-05-17,gKk-371550,Novel,Books,21.94,3,65.82,CUST-104463,Brian,Henderson,Online Payment
+2024-05-17,Odq-941911,Board Game,Toys & Games,28.56,9,257.04,CUST-935432,Jennifer,Berry,Debit Card
+2024-05-17,jOm-686947,Cushion,Home & Garden,43.84,5,219.2,CUST-095703,James,Tran,Debit Card
+2024-05-17,SuF-156903,Action Figure,Toys & Games,30.48,1,30.48,CUST-243983,Alexander,Alexander,Debit Card
+2024-05-17,EKg-876206,Dress,Clothing,93.75,5,468.75,CUST-432127,Teresa,Bradshaw,Cash
+2024-05-17,lPV-177349,Board Game,Toys & Games,46.16,4,184.64,CUST-489449,Aaron,Monroe,Debit Card
+2024-05-17,JGK-197857,History,Books,47.05,6,282.3,CUST-792048,Pamela,Mcfarland,Online Payment
+2024-05-17,dJQ-846493,Jeans,Clothing,46.54,7,325.78,CUST-736551,Michael,George,Online Payment
+2024-05-17,DOx-599299,Video Game,Toys & Games,57.53,7,402.71,CUST-160864,Jeffrey,Fields,Credit Card
+2024-05-17,FMC-518126,Lamp,Home & Garden,100.1,3,300.3,CUST-527532,Scott,Turner,Cash
+2024-05-17,GGf-624545,Jeans,Clothing,20.79,2,41.58,CUST-212275,Jeremy,Powell,Cash
+2024-05-17,cRn-995575,History,Books,47.26,2,94.52,CUST-552619,Jill,Banks,Credit Card
+2024-05-17,fyT-971577,Skin Cream,Health & Beauty,39.66,6,237.96,CUST-147094,Erica,Thompson,Cash
+2024-05-17,Hex-739630,Science Fiction,Books,28.86,3,86.58,CUST-673746,Thomas,Johnson,Cash
+2024-05-17,RJE-230268,Cushion,Home & Garden,6.72,6,40.32,CUST-541781,Nicole,Olsen,Cash
+2024-05-17,ZIr-310724,Puzzle,Toys & Games,45.41,9,408.69,CUST-019698,Nicole,Booth,Debit Card
+2024-05-17,TGZ-140212,History,Books,43.44,6,260.64,CUST-939755,Sarah,Cole,Credit Card
+2024-05-17,OTM-750244,Camera,Electronics,1446.96,9,13022.64,CUST-170858,Aaron,Pugh,Credit Card
+2024-05-17,EXK-987469,Board Game,Toys & Games,51.13,3,153.39,CUST-381923,Carolyn,Donovan,Cash
+2024-05-17,yrt-292196,Smartphone,Electronics,298.6,7,2090.2,CUST-591129,Deborah,Davis,Cash
+2024-05-17,Cdd-828701,Board Game,Toys & Games,15.6,4,62.4,CUST-277899,Shannon,Curry,Debit Card
+2024-05-17,Amx-117375,Lamp,Home & Garden,78.68,3,236.04,CUST-540581,Lisa,Berry,Credit Card
+2024-05-17,mGC-355692,T-shirt,Clothing,17.89,3,53.67,CUST-623870,Michele,Jenkins,Online Payment
+2024-05-17,uRe-901413,Video Game,Toys & Games,59.06,7,413.42,CUST-154773,Charles,Carr,Credit Card
+2024-05-17,yiw-333515,T-shirt,Clothing,28.97,3,86.91,CUST-920063,Jonathan,Martin,Cash
+2024-05-17,Trn-115881,Smartphone,Electronics,566.48,7,3965.36,CUST-484268,Jeffrey,Castillo,Cash
+2024-05-17,lba-175778,Cushion,Home & Garden,39.62,1,39.62,CUST-711920,Anthony,Decker,Cash
+2024-05-17,JGa-694655,Blanket,Home & Garden,50.46,1,50.46,CUST-525357,Ruth,Greer,Credit Card
+2024-05-17,VSD-301693,Board Game,Toys & Games,55.51,1,55.51,CUST-537790,Mike,Norris,Online Payment
+2024-05-17,Ubf-870946,Video Game,Toys & Games,54.19,9,487.71,CUST-668845,Tamara,White,Online Payment
+2024-05-17,pqP-322543,Laptop,Electronics,948.65,6,5691.9,CUST-441083,Linda,Madden,Debit Card
+2024-05-17,Ezf-097303,Puzzle,Toys & Games,37.82,5,189.1,CUST-403218,Billy,Chavez,Debit Card
+2024-05-17,FqK-702549,Headphones,Electronics,183.21,1,183.21,CUST-043896,Michael,Smith,Debit Card
+2024-05-17,ZXy-217918,Chair,Home & Garden,40.22,9,361.98,CUST-926238,Steven,Jones,Online Payment
+2024-05-17,oEd-689038,Chair,Home & Garden,83.93,5,419.65,CUST-033579,Allison,Morris,Debit Card
+2024-05-17,lcC-572137,Science Fiction,Books,10.41,8,83.28,CUST-574358,Lisa,Hamilton,Credit Card
+2024-05-17,diE-642114,Puzzle,Toys & Games,21.37,4,85.48,CUST-254615,Daniel,Glover,Debit Card
+2024-05-17,pup-916080,Cushion,Home & Garden,25.21,2,50.42,CUST-842471,Cody,Shannon,Online Payment
+2024-05-17,ESU-540876,Novel,Books,19.79,3,59.37,CUST-602336,Erica,Anderson,Cash
+2024-05-17,nXO-999651,Cushion,Home & Garden,23.75,2,47.5,CUST-055444,Brian,Wright,Credit Card
+2024-05-17,dAp-613618,Dress,Clothing,51.2,7,358.4,CUST-248833,Jordan,Brown,Cash
+2024-05-17,MXC-242053,Board Game,Toys & Games,18.59,7,130.13,CUST-209509,Valerie,Phillips,Debit Card
+2024-05-17,CVe-585520,Lamp,Home & Garden,45.89,7,321.23,CUST-195202,Gary,Andrews,Online Payment
+2024-05-17,Bte-424858,Biography,Books,34.86,9,313.74,CUST-071729,Daniel,Park,Debit Card
+2024-05-17,MEl-095375,Camera,Electronics,1291.28,6,7747.68,CUST-876293,Manuel,Wheeler,Debit Card
+2024-05-17,KYj-341391,Sneakers,Clothing,180.89,2,361.78,CUST-345440,Crystal,Porter,Debit Card
+2024-05-17,YdB-887860,Video Game,Toys & Games,59.93,9,539.37,CUST-144131,Katelyn,Blake,Debit Card
+2024-05-17,vpG-462574,Science Fiction,Books,14.78,9,133.02,CUST-025090,Jennifer,Lamb,Debit Card
+2024-05-17,kzg-445712,T-shirt,Clothing,14.93,8,119.44,CUST-841531,Aaron,Wagner,Credit Card
+2024-05-17,TOR-238840,Board Game,Toys & Games,18.86,6,113.16,CUST-304140,Daniel,Skinner,Credit Card
+2024-05-17,gQX-963390,Jeans,Clothing,76.27,9,686.43,CUST-299470,Keith,Hall,Debit Card
+2024-05-17,TLT-755518,Novel,Books,21.96,3,65.88,CUST-919716,Juan,Taylor,Credit Card
+2024-05-17,eXy-762304,Perfume,Health & Beauty,174.82,3,524.46,CUST-312686,Dustin,Martin,Debit Card
+2024-05-17,PLG-248295,Laptop,Electronics,1007.71,2,2015.42,CUST-350500,Micheal,Thomas,Debit Card
+2024-05-17,TrR-474586,Dress,Clothing,83.34,3,250.02,CUST-328588,April,Taylor,Cash
+2024-05-17,Gsi-259482,Shampoo,Health & Beauty,20.53,4,82.12,CUST-871736,Denise,Shaw,Credit Card
+2024-05-17,TZc-582802,Blanket,Home & Garden,77.45,5,387.25,CUST-304134,Scott,Mendoza,Credit Card
+2024-05-17,XzY-929661,Skin Cream,Health & Beauty,27.72,9,249.48,CUST-880032,Becky,Carter,Credit Card
+2024-05-17,KtC-189322,Perfume,Health & Beauty,161.47,7,1130.29,CUST-096343,Natalie,Fields,Credit Card
+2024-05-17,SRB-951727,Board Game,Toys & Games,46.18,4,184.72,CUST-365494,Danielle,Jarvis,Cash
+2024-05-17,KAm-603448,Headphones,Electronics,139.22,8,1113.76,CUST-879965,Abigail,Waller,Credit Card
+2024-05-17,ZzD-270498,Smartphone,Electronics,654.92,6,3929.52,CUST-969656,Edward,Camacho,Debit Card
+2024-05-17,Kii-325860,Skin Cream,Health & Beauty,29.47,1,29.47,CUST-118208,Mary,Sampson,Online Payment
+2024-05-17,Bvc-745993,Skin Cream,Health & Beauty,30.62,9,275.58,CUST-277031,Joanne,Anderson,Online Payment
+2024-05-17,ffA-440393,T-shirt,Clothing,36.27,4,145.08,CUST-716041,Martin,Carroll,Cash
+2024-05-17,Haf-681740,Headphones,Electronics,101.81,1,101.81,CUST-066983,Brittany,Blankenship,Online Payment
+2024-05-17,ukd-536092,Lamp,Home & Garden,28.77,1,28.77,CUST-573277,Billy,Williams,Cash
+2024-05-17,HVC-097129,Shampoo,Health & Beauty,16.31,8,130.48,CUST-648541,Michael,Bailey,Cash
+2024-05-17,FIH-006695,T-shirt,Clothing,20.72,1,20.72,CUST-693234,Katelyn,Martin,Online Payment
+2024-05-17,Huf-692858,Science Fiction,Books,26.73,1,26.73,CUST-077568,Stephen,Lamb,Cash
+2024-05-17,BGM-094634,Biography,Books,39.69,7,277.83,CUST-527945,Mike,Gilmore,Cash
+2024-05-17,GDW-351643,Headphones,Electronics,99.7,5,498.5,CUST-415323,Rebecca,Moreno,Online Payment
+2024-05-17,geN-550797,Lamp,Home & Garden,145.4,3,436.2,CUST-911878,Beth,Garcia,Credit Card
+2024-05-17,PZx-993038,Smartphone,Electronics,209.39,4,837.56,CUST-696747,Jacob,Lewis,Credit Card
+2024-05-17,xna-874967,Science Fiction,Books,27.55,3,82.65,CUST-481803,Ashley,Dyer,Debit Card
+2024-05-17,Bkj-086808,Perfume,Health & Beauty,61.01,6,366.06,CUST-336097,Larry,Taylor,Debit Card
+2024-05-17,DeX-125227,Action Figure,Toys & Games,81.06,2,162.12,CUST-503736,Sherri,Hale,Cash
+2024-05-17,HHq-982101,Novel,Books,28.5,9,256.5,CUST-220464,Tina,Garcia,Online Payment
+2024-05-17,Aap-147150,Laptop,Electronics,1484.6,2,2969.2,CUST-863754,Tonya,Lam,Online Payment
+2024-05-17,WSe-365462,History,Books,32.18,5,160.9,CUST-354054,Tyler,Mathis,Online Payment
+2024-05-17,wal-512622,Sneakers,Clothing,51.65,5,258.25,CUST-555838,Anita,Daniel,Debit Card
+2024-05-17,ZbF-639709,Video Game,Toys & Games,51.84,3,155.52,CUST-163080,Hayley,Fleming,Credit Card
+2024-05-17,rEl-670892,Camera,Electronics,1064.62,3,3193.86,CUST-256459,David,Watts,Cash
+2024-05-17,nTI-507194,Lamp,Home & Garden,41.97,5,209.85,CUST-539304,Amanda,Bush,Cash
+2024-05-17,MdN-824296,Makeup Kit,Health & Beauty,55.17,7,386.19,CUST-031887,Steven,Owens,Online Payment
+2024-05-17,OdQ-867911,Makeup Kit,Health & Beauty,44.05,5,220.25,CUST-227948,Sarah,Zavala,Debit Card
+2024-05-17,OHk-358272,Sneakers,Clothing,221.17,3,663.51,CUST-818525,Jennifer,Steele,Credit Card
+2024-05-17,qpE-245771,Jeans,Clothing,37.44,7,262.08,CUST-989084,Cameron,Duke,Credit Card
+2024-05-17,vtN-680294,Sneakers,Clothing,174.42,6,1046.52,CUST-998958,William,Miller,Online Payment
+2024-05-17,zOH-852764,Puzzle,Toys & Games,7.99,6,47.94,CUST-315465,Kristen,Walter,Cash
+2024-05-17,JNc-782238,Board Game,Toys & Games,31.11,7,217.77,CUST-076441,Amy,May,Debit Card
+2024-05-17,IXM-766219,Biography,Books,33.72,5,168.6,CUST-193211,Alexander,Smith,Credit Card
+2024-05-17,pks-203583,Board Game,Toys & Games,28.12,7,196.84,CUST-363820,Felicia,Esparza,Debit Card
+2024-05-17,Qmq-312684,Sneakers,Clothing,90.77,3,272.31,CUST-928982,Andrew,Robertson,Credit Card
+2024-05-17,TnP-931791,Puzzle,Toys & Games,20.91,9,188.19,CUST-909303,David,Pratt,Credit Card
+2024-05-17,vwJ-566495,Video Game,Toys & Games,53.63,7,375.41,CUST-219901,Samuel,Bridges,Debit Card
+2024-05-17,jdy-865010,Board Game,Toys & Games,23.88,5,119.4,CUST-140197,Ross,Johnson,Debit Card
+2024-05-17,eUY-428341,Blanket,Home & Garden,90.25,3,270.75,CUST-190813,Louis,Kaufman,Cash
+2024-05-17,jct-849865,Novel,Books,24.17,6,145.02,CUST-494484,Amanda,Schmitt,Cash
+2024-05-17,okY-612899,Board Game,Toys & Games,45.34,8,362.72,CUST-177718,Kyle,Kaiser,Debit Card
+2024-05-17,zSX-570355,Lamp,Home & Garden,87.1,5,435.5,CUST-988731,Zachary,Joyce,Debit Card
+2024-05-17,dCT-098833,History,Books,23.51,6,141.06,CUST-736009,Jackson,Adams,Online Payment
+2024-05-17,XyE-863521,Shampoo,Health & Beauty,6.82,7,47.74,CUST-964232,Michael,Marshall,Debit Card
+2024-05-17,PAf-588278,Video Game,Toys & Games,55.52,6,333.12,CUST-261222,Heather,Perry,Cash
+2024-05-17,tMg-110063,Laptop,Electronics,1301.47,1,1301.47,CUST-922747,Kevin,Andrews,Online Payment
+2024-05-17,HSY-217586,Lamp,Home & Garden,52.63,7,368.41,CUST-279969,Donna,Fritz,Debit Card
+2024-05-17,jem-975164,Headphones,Electronics,215.87,9,1942.83,CUST-255812,Victor,Williams,Debit Card
+2024-05-17,RLL-718659,Sneakers,Clothing,194.61,5,973.05,CUST-173243,Donald,Walter,Credit Card
+2024-05-17,HaO-552895,Laptop,Electronics,538.63,9,4847.67,CUST-223395,Victoria,Santiago,Online Payment
+2024-05-17,lEy-869308,Blanket,Home & Garden,60.49,3,181.47,CUST-119202,Robert,Moore,Online Payment
+2024-05-17,wgH-476224,Action Figure,Toys & Games,90.4,6,542.4,CUST-320788,Dustin,Williams,Debit Card
+2024-05-17,uUX-151909,Biography,Books,25.6,9,230.4,CUST-227315,Michele,Lynn,Credit Card
+2024-05-17,AZE-639261,T-shirt,Clothing,15.91,2,31.82,CUST-582282,Ashley,Howard,Online Payment
+2024-05-17,CrG-330672,History,Books,23.13,5,115.65,CUST-907612,Zachary,Nicholson,Credit Card
+2024-05-17,SMK-484398,Action Figure,Toys & Games,113.41,8,907.28,CUST-191022,Aaron,Evans,Credit Card
+2024-05-17,eti-795757,Laptop,Electronics,682.07,5,3410.35,CUST-899700,Jonathan,Williams,Debit Card
+2024-05-17,APi-339529,Action Figure,Toys & Games,48.05,9,432.45,CUST-092238,Stephanie,Robertson,Debit Card
+2024-05-17,DEI-130702,Makeup Kit,Health & Beauty,87.41,2,174.82,CUST-879340,Shari,Fields,Debit Card
+2024-05-17,PTQ-359756,Novel,Books,24.08,2,48.16,CUST-466270,Jacob,Davis,Online Payment
+2024-05-17,VWq-271561,Shampoo,Health & Beauty,25.65,3,76.95,CUST-623502,Eddie,Fischer,Credit Card
+2024-05-17,kKi-941170,Skin Cream,Health & Beauty,40.74,1,40.74,CUST-250283,Brandon,Moore,Debit Card
+2024-05-17,mdg-387053,Puzzle,Toys & Games,27.52,4,110.08,CUST-453556,Jimmy,Finley,Credit Card
+2024-05-17,DmT-318320,Perfume,Health & Beauty,147.26,8,1178.08,CUST-005686,Mark,Valenzuela,Credit Card
+2024-05-17,vXC-910271,Board Game,Toys & Games,57.48,7,402.36,CUST-707849,Julie,Vargas,Credit Card
+2024-05-17,cyq-958947,Jeans,Clothing,72.6,4,290.4,CUST-194800,John,Byrd,Debit Card
+2024-05-17,tJc-963943,Sneakers,Clothing,171.97,9,1547.73,CUST-038089,Billy,Bautista,Debit Card
+2024-05-17,GFk-723419,Shampoo,Health & Beauty,43.69,5,218.45,CUST-316803,Kimberly,Martinez,Cash
+2024-05-17,SUH-574898,Lamp,Home & Garden,144.59,3,433.77,CUST-048480,Melissa,White,Debit Card
+2024-05-17,hba-959983,Lamp,Home & Garden,51.96,3,155.88,CUST-844588,Ashley,Lopez,Debit Card
+2024-05-17,KaS-934514,Biography,Books,32.79,2,65.58,CUST-565445,Stacey,Wright,Online Payment
+2024-05-17,iFu-263211,Smartphone,Electronics,358.62,8,2868.96,CUST-991353,Melissa,Dougherty,Debit Card
+2024-05-17,OXx-224508,Jeans,Clothing,72.08,6,432.48,CUST-152491,Maria,Henson,Cash
+2024-05-17,IVr-702389,T-shirt,Clothing,26.71,4,106.84,CUST-645968,Angela,Clark,Online Payment
+2024-05-17,OCW-595934,Sneakers,Clothing,160.54,6,963.24,CUST-069511,Alyssa,Long,Cash
+2024-05-17,OyS-742282,Action Figure,Toys & Games,99.12,8,792.96,CUST-377596,Vanessa,Bryan,Cash
+2024-05-17,aou-576336,History,Books,34.19,4,136.76,CUST-514286,John,Williams,Credit Card
+2024-05-17,gcj-081672,Blanket,Home & Garden,75.18,9,676.62,CUST-694201,Eugene,Smith,Online Payment
+2024-05-17,IDt-936687,Dress,Clothing,134.58,6,807.48,CUST-051579,Heather,Bowman,Credit Card
+2024-05-17,RnC-804924,History,Books,44.07,4,176.28,CUST-894994,David,Thompson,Credit Card
+2024-05-17,TfL-613339,Blanket,Home & Garden,39.79,2,79.58,CUST-743832,Kevin,Lopez,Debit Card
+2024-05-17,pei-346798,Makeup Kit,Health & Beauty,50.44,6,302.64,CUST-767756,Ariel,Webb,Debit Card
+2024-05-17,kgw-572096,Blanket,Home & Garden,57.98,8,463.84,CUST-847225,Adam,Cruz,Online Payment
+2024-05-17,OJQ-001234,Makeup Kit,Health & Beauty,32.48,9,292.32,CUST-918656,Patricia,Williams,Online Payment
+2024-05-17,QTP-893841,Camera,Electronics,301.43,6,1808.58,CUST-691073,Craig,Little,Online Payment
+2024-05-17,Zdu-306025,Sneakers,Clothing,292.19,1,292.19,CUST-712593,Kathleen,Lucas,Online Payment
+2024-05-17,GHb-920695,Smartphone,Electronics,299.96,5,1499.8,CUST-461102,Julie,Carr,Credit Card
+2024-05-17,EJd-343829,Dress,Clothing,97.99,1,97.99,CUST-585826,Brandon,Barnes,Credit Card
+2024-05-17,Wkz-078823,Cushion,Home & Garden,40.42,5,202.1,CUST-140888,Robert,Calhoun,Debit Card
+2024-05-17,nEl-517783,Video Game,Toys & Games,55.42,3,166.26,CUST-454948,Carlos,Bryant,Credit Card
+2024-05-17,jvZ-671467,History,Books,41.69,8,333.52,CUST-469720,Timothy,Acevedo,Debit Card
+2024-05-17,Svd-478541,T-shirt,Clothing,26.63,5,133.15,CUST-841827,Joshua,King,Debit Card
+2024-05-17,QeS-592517,Chair,Home & Garden,171.54,3,514.62,CUST-438622,David,King,Credit Card
+2024-05-17,MmP-143759,Cushion,Home & Garden,12.59,3,37.77,CUST-363992,Denise,Cooper,Online Payment
+2024-05-17,PCW-588330,Sneakers,Clothing,212.55,7,1487.85,CUST-007107,Patricia,Lopez,Cash
+2024-05-17,bCw-987458,Lamp,Home & Garden,45.0,8,360.0,CUST-464473,Anthony,Hunt,Debit Card
+2024-05-17,Iil-320555,History,Books,43.28,6,259.68,CUST-842791,Jason,Randolph,Credit Card
+2024-05-17,iIa-843233,Lamp,Home & Garden,26.82,9,241.38,CUST-193252,Mary,Garza,Debit Card
+2024-05-17,IfR-981578,Sneakers,Clothing,75.05,9,675.45,CUST-635550,Harry,Walsh,Debit Card
+2024-05-17,idV-174293,Action Figure,Toys & Games,94.55,2,189.1,CUST-697979,Ryan,Patrick,Debit Card
+2024-05-17,UsX-181185,Skin Cream,Health & Beauty,47.95,1,47.95,CUST-687033,Brandon,Fuentes,Debit Card
+2024-05-17,uUY-245123,Puzzle,Toys & Games,48.34,6,290.04,CUST-681256,Savannah,Rush,Cash
+2024-05-17,tNU-692118,Lamp,Home & Garden,82.3,3,246.9,CUST-677057,Christopher,Lambert,Online Payment
+2024-05-17,mnX-500460,Action Figure,Toys & Games,49.46,1,49.46,CUST-142808,Colin,Butler,Credit Card
+2024-05-17,SQa-961535,Makeup Kit,Health & Beauty,84.83,2,169.66,CUST-040247,Chad,Larson,Online Payment
+2024-05-17,QFq-624639,Skin Cream,Health & Beauty,38.49,2,76.98,CUST-786398,Mary,Knight,Debit Card
+2024-05-17,wiS-855862,Sneakers,Clothing,114.11,7,798.77,CUST-323987,Emily,Williams,Debit Card
+2024-05-17,SoV-026108,Smartphone,Electronics,561.24,7,3928.68,CUST-013537,Sean,Wright,Debit Card
+2024-05-17,Tqu-258713,Dress,Clothing,181.69,4,726.76,CUST-073113,Nicholas,Green,Debit Card
+2024-05-17,lnK-425311,Lamp,Home & Garden,61.69,7,431.83,CUST-096354,Dennis,Moreno,Online Payment
+2024-05-17,kYm-380189,Sneakers,Clothing,100.21,3,300.63,CUST-586960,Anthony,King,Debit Card
+2024-05-17,alS-306844,Jeans,Clothing,36.45,3,109.35,CUST-341266,Eric,Williams,Debit Card
+2024-05-17,BhT-671630,Biography,Books,23.86,7,167.02,CUST-853474,Jodi,Hernandez,Credit Card
+2024-05-17,FZJ-708188,History,Books,32.83,8,262.64,CUST-471167,Anthony,Martinez,Cash
+2024-05-17,oRJ-393137,Laptop,Electronics,522.84,7,3659.88,CUST-418389,Catherine,Simpson,Debit Card
+2024-05-17,TNT-778182,History,Books,22.84,7,159.88,CUST-683680,George,Green,Online Payment
+2024-05-17,WfK-652531,Lamp,Home & Garden,69.26,6,415.56,CUST-890395,Barbara,Baldwin,Cash
+2024-05-17,Dtv-372465,History,Books,45.68,3,137.04,CUST-353034,Brent,Aguilar,Cash
+2024-05-17,loO-534979,History,Books,44.01,8,352.08,CUST-296428,Ronald,Green,Debit Card
+2024-05-17,gBX-109782,Sneakers,Clothing,90.53,6,543.18,CUST-421076,Thomas,Rodriguez,Debit Card
+2024-05-17,tti-714655,Headphones,Electronics,191.84,3,575.52,CUST-670513,Rose,King,Debit Card
+2024-05-17,CNP-068262,Jeans,Clothing,29.44,1,29.44,CUST-695054,Brittney,Reed,Online Payment
+2024-05-17,TUn-985210,Sneakers,Clothing,222.56,9,2003.04,CUST-294836,Christina,Chan,Online Payment
+2024-05-17,tfG-766291,Science Fiction,Books,17.9,5,89.5,CUST-124071,Barbara,Huff,Credit Card
+2024-05-17,lFt-561753,Jeans,Clothing,50.71,9,456.39,CUST-506145,Lauren,Harmon,Online Payment
+2024-05-17,sQi-866995,Makeup Kit,Health & Beauty,77.02,1,77.02,CUST-288925,Morgan,Chung,Credit Card
+2024-05-17,WaD-151246,Cushion,Home & Garden,15.22,8,121.76,CUST-003528,Courtney,Jenkins,Cash
+2024-05-17,atW-181069,Skin Cream,Health & Beauty,31.34,4,125.36,CUST-979133,Jennifer,Davis,Debit Card
+2024-05-17,emN-971340,Jeans,Clothing,95.04,3,285.12,CUST-168795,Elizabeth,Bates,Debit Card
+2024-05-17,aAG-532146,Chair,Home & Garden,75.83,4,303.32,CUST-878794,Jennifer,Mclaughlin,Debit Card
+2024-05-17,VBY-621267,Video Game,Toys & Games,54.93,2,109.86,CUST-459209,Christopher,Murphy,Cash
+2024-05-17,rAP-124999,Biography,Books,21.01,1,21.01,CUST-124574,Bryce,White,Debit Card
+2024-05-17,Vcr-379535,Science Fiction,Books,12.02,7,84.14,CUST-514361,Olivia,Webb,Online Payment
+2024-05-17,Ijw-777149,Chair,Home & Garden,42.97,7,300.79,CUST-223190,Olivia,Jackson,Online Payment
+2024-05-17,EeU-348029,Dress,Clothing,53.23,5,266.15,CUST-507209,Cody,Robinson,Online Payment
+2024-05-17,akY-802765,Laptop,Electronics,630.74,9,5676.66,CUST-331926,Kevin,Evans,Online Payment
+2024-05-17,Lob-819812,Biography,Books,15.37,9,138.33,CUST-068707,Christopher,Petty,Credit Card
+2024-05-17,MJC-689783,Skin Cream,Health & Beauty,33.66,4,134.64,CUST-345989,Kyle,Thomas,Credit Card
+2024-05-17,hqr-113560,Camera,Electronics,1451.98,1,1451.98,CUST-787360,Laura,Sanchez,Credit Card
+2024-05-17,tof-449712,Camera,Electronics,750.72,1,750.72,CUST-714839,Kathleen,Wright,Online Payment
+2024-05-17,uha-279424,Lamp,Home & Garden,146.08,9,1314.72,CUST-262209,Mary,Farmer,Credit Card
+2024-05-17,wjl-450714,Camera,Electronics,621.21,5,3106.05,CUST-839424,Janet,Hernandez,Online Payment
+2024-05-17,Hox-392017,Camera,Electronics,274.07,9,2466.63,CUST-540589,Connor,Johnson,Cash
+2024-05-17,uAZ-094814,Blanket,Home & Garden,89.82,7,628.74,CUST-854747,Valerie,Smith,Debit Card
+2024-05-17,lQX-599545,Action Figure,Toys & Games,10.5,6,63.0,CUST-771889,Joseph,Summers,Debit Card
+2024-05-17,ztk-855803,Makeup Kit,Health & Beauty,34.68,4,138.72,CUST-611443,Andrew,Griffin,Debit Card
+2024-05-17,TBl-938882,Lamp,Home & Garden,54.08,8,432.64,CUST-514853,Jessica,Dyer,Online Payment
+2024-05-17,KNB-878264,Sneakers,Clothing,150.19,2,300.38,CUST-158359,Sydney,Williams,Debit Card
+2024-05-17,mll-057614,Board Game,Toys & Games,16.66,1,16.66,CUST-540630,Tanya,Boyd,Cash
+2024-05-17,YcS-356260,T-shirt,Clothing,28.65,3,85.95,CUST-339408,Melinda,Bernard,Debit Card
+2024-05-17,TSm-343757,Video Game,Toys & Games,50.42,6,302.52,CUST-373194,James,Gutierrez,Credit Card
+2024-05-17,gfw-401132,Blanket,Home & Garden,17.04,2,34.08,CUST-804147,Joy,Oliver,Debit Card
+2024-05-17,YpS-188443,Blanket,Home & Garden,52.91,3,158.73,CUST-858076,Shannon,Hernandez,Cash
+2024-05-17,ONP-661581,Action Figure,Toys & Games,44.0,2,88.0,CUST-571051,Megan,Rush,Credit Card
+2024-05-17,SIb-869933,Perfume,Health & Beauty,78.98,3,236.94,CUST-990400,Albert,Moreno,Online Payment
+2024-05-17,pIQ-352861,Cushion,Home & Garden,38.17,4,152.68,CUST-992651,Laurie,Johnson,Online Payment
+2024-05-17,Rkc-973900,Video Game,Toys & Games,55.69,7,389.83,CUST-256075,Aaron,Davis,Cash
+2024-05-17,psP-663521,Puzzle,Toys & Games,21.81,4,87.24,CUST-912128,Gregory,Powell,Online Payment
+2024-05-17,hIB-894331,Video Game,Toys & Games,56.85,9,511.65,CUST-716866,Kevin,Allen,Debit Card
+2024-05-17,ZbY-102509,Novel,Books,22.58,7,158.06,CUST-250572,Hannah,Cobb,Credit Card
+2024-05-17,BHP-918349,T-shirt,Clothing,11.87,6,71.22,CUST-228133,Courtney,Jones,Online Payment
+2024-05-17,lrU-338383,Smartphone,Electronics,748.27,3,2244.81,CUST-889139,Brent,Shaw,Online Payment
+2024-05-17,Jzy-656255,Video Game,Toys & Games,59.48,3,178.44,CUST-511799,Angela,Cantu,Online Payment
+2024-05-17,hoz-618041,Puzzle,Toys & Games,26.12,2,52.24,CUST-198315,Frederick,Ramos,Cash
+2024-05-17,PVb-821623,History,Books,23.08,8,184.64,CUST-617140,Jessica,Bradshaw,Online Payment
+2024-05-17,gsn-129718,Smartphone,Electronics,767.62,7,5373.34,CUST-110834,Anthony,Mcclain,Debit Card
+2024-05-17,ojF-900651,Puzzle,Toys & Games,16.77,4,67.08,CUST-550348,Annette,Garza,Cash
+2024-05-17,ewA-760172,Board Game,Toys & Games,26.99,5,134.95,CUST-180112,Paul,Bright,Cash
+2024-05-17,QoR-314099,Blanket,Home & Garden,71.79,3,215.37,CUST-856191,Michael,Reynolds,Debit Card
+2024-05-17,whA-707395,Shampoo,Health & Beauty,22.71,2,45.42,CUST-671721,William,White,Credit Card
+2024-05-17,IDd-581985,Smartphone,Electronics,867.97,2,1735.94,CUST-801693,James,Atkinson,Cash
+2024-05-17,RUJ-090374,Headphones,Electronics,274.12,3,822.36,CUST-440715,Jesse,Green,Debit Card
+2024-05-17,FDI-234704,Camera,Electronics,318.85,1,318.85,CUST-834045,Jason,Scott,Debit Card
+2024-05-17,AgV-020088,Makeup Kit,Health & Beauty,61.06,7,427.42,CUST-189121,Cynthia,Miles,Debit Card
+2024-05-17,SnR-211544,Smartphone,Electronics,774.73,8,6197.84,CUST-141576,Steve,Hunt,Debit Card
+2024-05-17,nJN-475736,Biography,Books,35.9,3,107.7,CUST-274647,Vincent,Pearson,Online Payment
+2024-05-17,sWz-324628,History,Books,43.17,2,86.34,CUST-312325,Linda,Foster,Credit Card
+2024-05-17,UMU-821686,Action Figure,Toys & Games,99.15,8,793.2,CUST-780939,Ricardo,Meyers,Credit Card
+2024-05-17,vga-434079,History,Books,22.51,2,45.02,CUST-637361,Laura,Richardson,Online Payment
+2024-05-17,pCE-862255,T-shirt,Clothing,45.28,9,407.52,CUST-130971,Katie,West,Debit Card
+2024-05-17,gyI-185373,Camera,Electronics,130.91,6,785.46,CUST-820599,Regina,Neal,Credit Card
+2024-05-17,cFf-785852,Science Fiction,Books,27.68,8,221.44,CUST-094879,Mary,Ellis,Online Payment
+2024-05-17,txt-894450,Dress,Clothing,128.07,2,256.14,CUST-377973,Stephanie,Miller,Online Payment
+2024-05-17,kHQ-428628,Sneakers,Clothing,55.45,5,277.25,CUST-368333,Amber,Cummings,Debit Card
+2024-05-17,LpA-550379,Lamp,Home & Garden,132.22,8,1057.76,CUST-705705,Richard,Olson,Cash
+2024-05-17,Fyr-868006,History,Books,20.21,4,80.84,CUST-522879,Deborah,Jones,Credit Card
+2024-05-17,LAQ-652489,Skin Cream,Health & Beauty,61.72,6,370.32,CUST-788173,Christopher,Martin,Debit Card
+2024-05-17,TgH-586659,Action Figure,Toys & Games,16.86,5,84.3,CUST-854444,Wesley,Payne,Cash
+2024-05-17,CyS-325005,Science Fiction,Books,13.14,7,91.98,CUST-251494,Barbara,Fowler,Cash
+2024-05-17,RdR-188752,Video Game,Toys & Games,58.04,6,348.24,CUST-218099,Matthew,Freeman,Credit Card
+2024-05-17,Urq-188062,Action Figure,Toys & Games,53.91,2,107.82,CUST-726677,Aaron,Wright,Online Payment
+2024-05-17,mzx-784782,Cushion,Home & Garden,49.1,5,245.5,CUST-702198,Jeffrey,Sherman,Cash
+2024-05-17,xuX-579550,T-shirt,Clothing,32.67,3,98.01,CUST-037578,Michael,Arnold,Cash
+2024-05-17,dlw-612159,Cushion,Home & Garden,43.96,4,175.84,CUST-171395,Paige,Stewart,Debit Card
+2024-05-17,HGp-641437,Sneakers,Clothing,205.25,9,1847.25,CUST-454106,Vicki,Yates,Online Payment
+2024-05-17,Gnx-322558,Action Figure,Toys & Games,143.54,1,143.54,CUST-887037,Jackson,Middleton,Online Payment
+2024-05-17,jkC-972152,Cushion,Home & Garden,36.94,8,295.52,CUST-190962,Kim,Collier,Cash
+2024-05-17,ExA-959472,Novel,Books,15.38,3,46.14,CUST-792629,Christopher,Lowe,Debit Card
+2024-05-17,snK-292956,Puzzle,Toys & Games,18.27,7,127.89,CUST-009417,Jessica,Wilson,Online Payment
+2024-05-17,Wmi-330602,Headphones,Electronics,114.62,2,229.24,CUST-060887,Adrienne,Foster,Cash
+2024-05-17,ify-540034,History,Books,24.74,3,74.22,CUST-340483,Juan,Thompson,Credit Card
+2024-05-17,VNR-371943,Laptop,Electronics,1406.32,4,5625.28,CUST-693415,Lisa,Smith,Online Payment
+2024-05-17,Kpd-656314,Sneakers,Clothing,131.1,7,917.7,CUST-968415,Richard,Lopez,Credit Card
+2024-05-17,SAF-820541,Board Game,Toys & Games,34.81,2,69.62,CUST-798344,Jeffery,White,Online Payment
+2024-05-17,NWk-447633,Jeans,Clothing,60.74,9,546.66,CUST-765970,Michael,Sutton,Online Payment
+2024-05-17,fYN-021179,Blanket,Home & Garden,82.17,3,246.51,CUST-657294,Karl,Graves,Debit Card
+2024-05-17,YDE-274264,Headphones,Electronics,69.88,5,349.4,CUST-402056,Kyle,Taylor,Online Payment
+2024-05-17,vKF-452626,Blanket,Home & Garden,47.44,8,379.52,CUST-367040,Angela,Mccoy,Credit Card
+2024-05-17,xUA-929437,History,Books,44.47,8,355.76,CUST-076739,Jason,Andersen,Credit Card
+2024-05-17,Hro-443694,Board Game,Toys & Games,57.9,2,115.8,CUST-205178,Marissa,Moore,Cash
+2024-05-17,yDc-845692,Action Figure,Toys & Games,58.23,4,232.92,CUST-799586,Gregory,Ryan,Credit Card
+2024-05-17,Anh-044493,Camera,Electronics,592.31,6,3553.86,CUST-658871,Matthew,Taylor,Online Payment
+2024-05-17,Xwb-684985,Blanket,Home & Garden,75.55,2,151.1,CUST-028067,Jason,Curry,Cash
+2024-05-17,OON-712997,Novel,Books,16.35,2,32.7,CUST-329477,Gary,Potter,Online Payment
+2024-05-17,Xpa-179373,Board Game,Toys & Games,41.56,1,41.56,CUST-314779,Julie,Medina,Cash
+2024-05-17,ryf-199318,T-shirt,Clothing,18.73,3,56.19,CUST-156944,Felicia,Sanchez,Online Payment
+2024-05-17,XIL-652878,Chair,Home & Garden,34.63,5,173.15,CUST-750947,Christopher,Newton,Credit Card
+2024-05-17,NWs-202636,Laptop,Electronics,1438.39,4,5753.56,CUST-703269,Brandon,Long,Credit Card
+2024-05-17,OuM-881812,Action Figure,Toys & Games,128.92,7,902.44,CUST-541045,Brenda,Jackson,Online Payment
+2024-05-17,LMX-235549,Sneakers,Clothing,271.42,5,1357.1,CUST-158601,Jennifer,Moran,Debit Card
+2024-05-17,PRc-598244,Biography,Books,25.33,3,75.99,CUST-408819,Katrina,Rogers,Credit Card
+2024-05-17,cNw-661061,Laptop,Electronics,932.83,9,8395.47,CUST-283135,Michael,Barrett,Online Payment
+2024-05-17,lRQ-002953,Headphones,Electronics,147.43,9,1326.87,CUST-813029,Tiffany,Haynes,Credit Card
+2024-05-17,Nzx-124427,Science Fiction,Books,23.67,3,71.01,CUST-225089,Dennis,Morgan,Credit Card
+2024-05-17,dtH-851836,Action Figure,Toys & Games,124.06,9,1116.54,CUST-608399,John,Diaz,Cash
+2024-05-17,Ydf-333909,Laptop,Electronics,510.85,6,3065.1,CUST-068039,Sandra,Taylor,Cash
+2024-05-17,gXx-851927,T-shirt,Clothing,30.57,3,91.71,CUST-507153,Courtney,Williamson,Cash
+2024-05-17,uYe-092474,Novel,Books,18.14,5,90.7,CUST-797369,Elizabeth,Sampson,Cash
+2024-05-17,emn-569964,Video Game,Toys & Games,50.33,4,201.32,CUST-806880,Brandon,Rodriguez,Credit Card
+2024-05-17,GVb-830744,Jeans,Clothing,27.49,1,27.49,CUST-178972,Christopher,Davenport,Debit Card
+2024-05-17,sub-365687,Lamp,Home & Garden,30.82,2,61.64,CUST-969000,Brandon,Brown,Credit Card
+2024-05-17,mrj-468424,Camera,Electronics,1005.34,7,7037.38,CUST-097782,Matthew,Rowland,Debit Card
+2024-05-17,rDf-557877,Chair,Home & Garden,101.96,1,101.96,CUST-492437,Jose,Davis,Online Payment
+2024-05-17,JNp-283506,Novel,Books,18.54,2,37.08,CUST-926012,Ryan,Stone,Credit Card
+2024-05-17,koe-596629,Skin Cream,Health & Beauty,32.75,7,229.25,CUST-429291,Joseph,Rogers,Cash
+2024-05-17,TgL-598151,Chair,Home & Garden,174.13,8,1393.04,CUST-484555,Angela,Green,Debit Card
+2024-05-17,nCB-588314,Headphones,Electronics,220.4,4,881.6,CUST-866555,Shaun,Davis,Debit Card
+2024-05-17,ieU-905839,Perfume,Health & Beauty,55.94,6,335.64,CUST-049151,Melissa,Ware,Credit Card
+2024-05-17,EDn-442137,Camera,Electronics,147.36,1,147.36,CUST-068818,Katherine,Webb,Cash
+2024-05-17,chn-499311,Camera,Electronics,1369.37,2,2738.74,CUST-233820,Benjamin,Henderson,Credit Card
+2024-05-17,XgU-268860,Board Game,Toys & Games,47.38,2,94.76,CUST-303171,Cody,Murray,Cash
+2024-05-17,dnI-074943,Chair,Home & Garden,33.96,3,101.88,CUST-837061,Tony,Wright,Debit Card
+2024-05-17,SUa-853654,Laptop,Electronics,1376.31,3,4128.93,CUST-518351,Mary,Johnson,Debit Card
+2024-05-17,cRL-529559,Science Fiction,Books,18.39,7,128.73,CUST-194171,Elizabeth,Williams,Online Payment
+2024-05-17,stZ-864972,Dress,Clothing,154.68,9,1392.12,CUST-890964,John,Boyd,Cash
+2024-05-17,VHX-828719,Shampoo,Health & Beauty,38.53,9,346.77,CUST-669070,Alicia,Atkinson,Debit Card
+2024-05-17,byF-431270,Skin Cream,Health & Beauty,45.89,9,413.01,CUST-629366,Laura,Lucas,Debit Card
+2024-05-17,cdj-353838,Science Fiction,Books,12.13,1,12.13,CUST-973868,Frank,Dillon,Debit Card
+2024-05-17,GOM-659917,Cushion,Home & Garden,24.89,5,124.45,CUST-425401,John,Hardy,Cash
+2024-05-17,cbP-134657,Board Game,Toys & Games,21.34,6,128.04,CUST-670426,Sean,Barber,Debit Card
+2024-05-17,aBU-566988,Camera,Electronics,354.3,5,1771.5,CUST-504043,Frederick,Watts,Online Payment
+2024-05-17,Snh-217519,Makeup Kit,Health & Beauty,40.46,4,161.84,CUST-728340,Melinda,Jones,Debit Card
+2024-05-17,DQS-164717,History,Books,39.15,8,313.2,CUST-455935,Kristina,Wagner,Cash
+2024-05-17,Yeu-069262,Puzzle,Toys & Games,31.15,4,124.6,CUST-620913,Kimberly,Powers,Cash
+2024-05-17,Ypz-232193,Cushion,Home & Garden,38.37,5,191.85,CUST-596521,Meredith,Booker,Online Payment
+2024-05-17,HEw-142313,Dress,Clothing,33.23,9,299.07,CUST-939821,Denise,Hughes,Online Payment
+2024-05-17,sNo-031072,Laptop,Electronics,631.29,5,3156.45,CUST-162841,Denise,Moore,Credit Card
+2024-05-17,NYg-452751,Shampoo,Health & Beauty,38.74,7,271.18,CUST-196705,Denise,Gamble,Online Payment
+2024-05-17,SdR-824987,Video Game,Toys & Games,50.24,5,251.2,CUST-515599,Daniel,Williams,Debit Card
+2024-05-17,bqN-055730,History,Books,34.31,3,102.93,CUST-037224,Anthony,Park,Cash
+2024-05-17,aLF-935684,Makeup Kit,Health & Beauty,46.95,6,281.7,CUST-958815,Tracy,Rodriguez,Online Payment
+2024-05-17,rgr-524872,Action Figure,Toys & Games,40.87,9,367.83,CUST-690266,Susan,Quinn,Cash
+2024-05-17,MAJ-639348,Laptop,Electronics,900.35,3,2701.05,CUST-109284,Theresa,Russell,Cash
+2024-05-17,Pag-497693,Action Figure,Toys & Games,28.48,1,28.48,CUST-485885,Patrick,Hernandez,Credit Card
+2024-05-17,NJI-091371,Science Fiction,Books,24.81,8,198.48,CUST-812188,Jamie,Acosta,Cash
+2024-05-17,Yyn-092057,History,Books,33.69,8,269.52,CUST-558880,Ernest,Castro,Credit Card
+2024-05-17,aTx-291649,Puzzle,Toys & Games,34.58,3,103.74,CUST-180648,Christopher,Henson,Cash
+2024-05-17,LMZ-009470,Camera,Electronics,921.83,2,1843.66,CUST-243305,Maria,Harper,Debit Card
+2024-05-17,oAP-567383,Camera,Electronics,634.23,3,1902.69,CUST-660823,Amanda,Rodriguez,Credit Card
+2024-05-17,jDR-445621,Puzzle,Toys & Games,10.39,6,62.34,CUST-979670,Anita,Adams,Cash
+2024-05-17,GKz-401065,Lamp,Home & Garden,98.29,4,393.16,CUST-401946,Riley,Sanchez,Debit Card
+2024-05-17,xsJ-143108,Smartphone,Electronics,974.82,3,2924.46,CUST-755926,Kimberly,Saunders,Credit Card
+2024-05-17,DJV-700425,Camera,Electronics,1458.16,8,11665.28,CUST-951513,Taylor,Larson,Debit Card
+2024-05-17,ziy-572896,Shampoo,Health & Beauty,34.99,2,69.98,CUST-291419,Sabrina,Ward,Online Payment
+2024-05-17,FYx-922927,Cushion,Home & Garden,31.33,2,62.66,CUST-742782,Troy,Werner,Debit Card
+2024-05-17,vbt-007931,Sneakers,Clothing,217.57,5,1087.85,CUST-735689,Derek,Salas,Debit Card
+2024-05-17,wdP-651637,Jeans,Clothing,76.66,4,306.64,CUST-072630,Douglas,Anderson,Credit Card
+2024-05-17,rNV-210808,T-shirt,Clothing,22.67,8,181.36,CUST-637680,Teresa,Gilmore,Credit Card
+2024-05-17,ztI-220294,Smartphone,Electronics,926.21,1,926.21,CUST-100234,Charles,Bell,Cash
+2024-05-17,LKI-403881,Action Figure,Toys & Games,83.04,9,747.36,CUST-994509,Daniel,Benson,Online Payment
+2024-05-17,rgf-460086,Lamp,Home & Garden,128.0,3,384.0,CUST-450330,Kurt,Williamson,Cash
+2024-05-17,nuY-290339,Skin Cream,Health & Beauty,41.33,8,330.64,CUST-037335,Christy,Reilly,Debit Card
+2024-05-17,zrR-810444,Skin Cream,Health & Beauty,71.82,2,143.64,CUST-719823,April,Burke,Online Payment
+2024-05-17,MXx-601125,T-shirt,Clothing,24.76,7,173.32,CUST-593605,John,Gonzalez,Online Payment
+2024-05-17,eFn-957104,Lamp,Home & Garden,20.93,5,104.65,CUST-751970,John,Merritt,Credit Card
+2024-05-17,QYJ-434663,Laptop,Electronics,1806.5,9,16258.5,CUST-111137,Ashley,Armstrong,Credit Card
+2024-05-17,pGh-577171,Lamp,Home & Garden,71.31,7,499.17,CUST-484506,Kristina,Michael,Credit Card
+2024-05-17,FNr-798803,Jeans,Clothing,68.04,2,136.08,CUST-211116,Troy,Love,Online Payment
+2024-05-17,yHL-426073,Sneakers,Clothing,163.45,7,1144.15,CUST-677138,Kelly,Rodriguez,Debit Card
+2024-05-17,qoZ-161916,Action Figure,Toys & Games,37.79,9,340.11,CUST-773774,Joanna,Gilbert,Debit Card
+2024-05-17,xwl-060979,Camera,Electronics,268.2,7,1877.4,CUST-815629,Maria,Malone,Cash
+2024-05-17,EOL-441162,Action Figure,Toys & Games,37.06,3,111.18,CUST-049607,Monique,Butler,Online Payment
+2024-05-17,qXQ-812213,Blanket,Home & Garden,40.42,4,161.68,CUST-978890,Michael,Davis,Cash
+2024-05-17,HXC-343370,Cushion,Home & Garden,13.96,2,27.92,CUST-122868,Kaylee,Wright,Online Payment
+2024-05-17,Dxn-488721,Puzzle,Toys & Games,16.47,6,98.82,CUST-748386,Jill,Summers,Online Payment
+2024-05-17,HAK-989609,Novel,Books,24.5,5,122.5,CUST-865907,Robert,Jones,Credit Card
+2024-05-17,aAO-090323,Novel,Books,14.6,8,116.8,CUST-778209,Mark,Green,Debit Card
+2024-05-17,qSO-767789,Makeup Kit,Health & Beauty,23.01,8,184.08,CUST-154503,Alejandro,Charles,Credit Card
+2024-05-17,UKZ-222618,History,Books,37.16,4,148.64,CUST-029495,Michael,Lopez,Debit Card
+2024-05-17,sLE-347121,Camera,Electronics,1310.56,5,6552.8,CUST-311564,Stephen,Moore,Online Payment
+2024-05-17,Yoq-842632,Novel,Books,12.49,9,112.41,CUST-549451,Amanda,Rogers,Credit Card
+2024-05-17,zGP-710821,History,Books,30.25,5,151.25,CUST-631623,Maria,Kennedy,Cash
+2024-05-17,SBB-897024,Camera,Electronics,285.19,2,570.38,CUST-985477,Jennifer,Shah,Credit Card
+2024-05-17,pQa-788502,Board Game,Toys & Games,42.86,9,385.74,CUST-340244,Heather,Ritter,Debit Card
+2024-05-17,AYU-940684,Headphones,Electronics,190.15,1,190.15,CUST-645843,Katelyn,Archer,Credit Card
+2024-05-17,Rjo-627111,History,Books,45.05,2,90.1,CUST-662146,Samuel,Mccann,Cash
+2024-05-17,nbK-146940,Board Game,Toys & Games,18.48,7,129.36,CUST-418020,Jeffrey,Fleming,Online Payment
+2024-05-17,tjq-381301,Skin Cream,Health & Beauty,16.03,3,48.09,CUST-113787,Kyle,Moore,Online Payment
+2024-05-17,kWF-102214,Jeans,Clothing,63.93,6,383.58,CUST-635455,Michelle,Peck,Cash
+2024-05-17,fCm-293683,Sneakers,Clothing,81.12,8,648.96,CUST-147062,Robert,Smith,Online Payment
+2024-05-17,vBl-485212,Action Figure,Toys & Games,28.29,8,226.32,CUST-807120,Rebecca,Flores,Credit Card
+2024-05-17,HBv-540740,Science Fiction,Books,20.18,4,80.72,CUST-162107,Ruben,Lee,Debit Card
+2024-05-17,eKK-411504,Sneakers,Clothing,190.02,2,380.04,CUST-240029,Patricia,Yang,Online Payment
+2024-05-17,fcp-059790,Action Figure,Toys & Games,17.65,4,70.6,CUST-012934,Robin,Thompson,Debit Card
+2024-05-17,Frn-315728,Perfume,Health & Beauty,83.98,9,755.82,CUST-555072,Jessica,Smith,Credit Card
+2024-05-17,dLF-760877,History,Books,40.29,9,362.61,CUST-196334,Joel,Bell,Online Payment
+2024-05-17,mPp-099176,History,Books,38.57,7,269.99,CUST-436572,Michele,Frederick,Credit Card
+2024-05-17,vlT-469173,Science Fiction,Books,15.08,7,105.56,CUST-445121,Yvonne,Garcia,Credit Card
+2024-05-17,fFR-334819,Skin Cream,Health & Beauty,43.46,8,347.68,CUST-997920,Misty,Gill,Online Payment
+2024-05-17,iZM-577041,Puzzle,Toys & Games,49.19,1,49.19,CUST-572785,Erin,Henry,Debit Card
+2024-05-17,WnG-776516,Perfume,Health & Beauty,143.46,8,1147.68,CUST-789471,Ryan,Howell,Debit Card
+2024-05-17,Hgc-359693,Cushion,Home & Garden,36.61,6,219.66,CUST-551189,Candace,Robinson,Debit Card
+2024-05-17,Hdy-078146,Video Game,Toys & Games,52.93,7,370.51,CUST-153134,Karen,Chavez,Cash
+2024-05-17,hWP-187886,Video Game,Toys & Games,58.81,9,529.29,CUST-953452,Toni,Lambert,Cash
+2024-05-17,Tzz-489679,Makeup Kit,Health & Beauty,89.53,3,268.59,CUST-512489,Amber,Gomez,Credit Card
+2024-05-17,MHb-267692,Smartphone,Electronics,226.5,4,906.0,CUST-346733,James,Hines,Debit Card
+2024-05-17,EyC-977851,Chair,Home & Garden,179.23,3,537.69,CUST-098393,Alicia,Nelson,Debit Card
+2024-05-17,cZW-302540,Novel,Books,19.45,2,38.9,CUST-110541,Sandy,Abbott,Cash
+2024-05-17,CVf-032823,Smartphone,Electronics,947.28,6,5683.68,CUST-393264,Brandon,Baker,Online Payment
+2024-05-17,zxh-667444,Makeup Kit,Health & Beauty,81.44,2,162.88,CUST-804481,Brian,Maldonado,Cash
+2024-05-17,yQe-795392,Sneakers,Clothing,167.23,1,167.23,CUST-614603,Jeffrey,Thomas,Cash
+2024-05-17,tLb-221504,Action Figure,Toys & Games,82.26,8,658.08,CUST-576622,Melissa,Taylor,Cash
+2024-05-17,Una-230932,Dress,Clothing,176.06,9,1584.54,CUST-110652,Steven,Jenkins,Online Payment
+2024-05-17,Vpy-021755,Jeans,Clothing,55.05,8,440.4,CUST-632139,Justin,Johnson,Credit Card
+2024-05-17,Pcp-744817,Camera,Electronics,1354.77,7,9483.39,CUST-702866,Brian,Mckay,Credit Card
+2024-05-17,ZTp-546416,Dress,Clothing,78.36,6,470.16,CUST-195978,John,Moss,Cash
+2024-05-17,REn-747898,Blanket,Home & Garden,26.3,8,210.4,CUST-661222,Donna,Johnson,Cash
+2024-05-17,pVz-245229,Dress,Clothing,34.04,2,68.08,CUST-919393,Kristie,Mcintyre,Credit Card
+2024-05-17,NcF-045298,Board Game,Toys & Games,40.98,5,204.9,CUST-154740,Brandy,Brooks,Online Payment
+2024-05-17,aaQ-838984,History,Books,35.21,8,281.68,CUST-034241,George,Morales,Debit Card
+2024-05-17,VbB-108550,Chair,Home & Garden,178.36,1,178.36,CUST-563384,John,Rodriguez,Credit Card
+2024-05-17,bZv-940861,Science Fiction,Books,11.06,1,11.06,CUST-583416,Cynthia,Turner,Debit Card
+2024-05-17,NyZ-078487,Video Game,Toys & Games,52.21,3,156.63,CUST-572852,Kelsey,Tucker,Online Payment
+2024-05-17,JrT-830901,Sneakers,Clothing,160.05,4,640.2,CUST-753848,Phillip,Vazquez,Cash
+2024-05-17,psB-323391,Science Fiction,Books,29.62,9,266.58,CUST-697815,Jesse,Lynch,Online Payment
+2024-05-17,rFc-675725,Perfume,Health & Beauty,184.99,5,924.95,CUST-115178,Ronald,Russell,Cash
+2024-05-17,ker-139986,Laptop,Electronics,519.13,1,519.13,CUST-929698,Erika,Jones,Cash
+2024-05-17,LJd-710246,Lamp,Home & Garden,91.26,7,638.82,CUST-953520,Erin,Sims,Cash
+2024-05-17,EEk-859135,Sneakers,Clothing,287.6,5,1438.0,CUST-191048,Brian,Kelly,Credit Card
+2024-05-17,cDU-754947,Makeup Kit,Health & Beauty,22.98,2,45.96,CUST-945329,Ashley,Villarreal,Credit Card
+2024-05-17,Oue-942699,Smartphone,Electronics,982.93,4,3931.72,CUST-963637,Karen,Hamilton,Online Payment
+2024-05-17,oWJ-149877,Novel,Books,23.89,5,119.45,CUST-478808,Valerie,Jones,Credit Card
+2024-05-17,QDj-794234,T-shirt,Clothing,38.98,8,311.84,CUST-007960,Jesse,Holland,Online Payment
+2024-05-17,KIu-022357,Sneakers,Clothing,151.26,7,1058.82,CUST-106845,Denise,Mcconnell,Online Payment
+2024-05-17,GyY-762302,Novel,Books,16.7,9,150.3,CUST-851512,Brian,Johnson,Cash
+2024-05-17,VVl-410380,Science Fiction,Books,16.31,1,16.31,CUST-404276,Brandon,Clay,Online Payment
+2024-05-17,ZHW-259400,Biography,Books,18.63,2,37.26,CUST-415020,Drew,Tate,Cash
+2024-05-17,qYn-987132,Camera,Electronics,566.53,8,4532.24,CUST-134633,Christopher,Randolph,Online Payment
+2024-05-17,tlw-794729,Sneakers,Clothing,205.55,5,1027.75,CUST-398991,Donald,Conner,Debit Card
+2024-05-17,Xfk-857337,Headphones,Electronics,217.13,3,651.39,CUST-193229,Olivia,Combs,Debit Card
+2024-05-17,eZO-670276,History,Books,28.22,4,112.88,CUST-635496,Edward,Peterson,Debit Card
+2024-05-17,bIw-604435,Novel,Books,27.14,9,244.26,CUST-850939,Veronica,Mitchell,Cash
+2024-05-17,Hce-325138,Video Game,Toys & Games,50.45,8,403.6,CUST-265717,Matthew,Allen,Cash
+2024-05-17,ylH-024112,Sneakers,Clothing,225.74,9,2031.66,CUST-981280,Sheila,Cook,Online Payment
+2024-05-17,kfy-176544,Jeans,Clothing,52.7,2,105.4,CUST-218483,Cynthia,Keller,Debit Card
+2024-05-17,HFZ-532902,Smartphone,Electronics,939.36,9,8454.24,CUST-049693,Debra,Krueger,Debit Card
+2024-05-17,qnf-093201,Biography,Books,22.39,9,201.51,CUST-608942,Jessica,Johnson,Cash
+2024-05-17,bYH-996831,Novel,Books,26.72,9,240.48,CUST-008255,Richard,Wright,Online Payment
+2024-05-17,tCT-411317,Jeans,Clothing,79.6,8,636.8,CUST-140998,Alex,Davis,Cash
+2024-05-17,gIt-773690,History,Books,27.06,3,81.18,CUST-160367,Cheryl,Shaw,Debit Card
+2024-05-17,hSU-500331,Laptop,Electronics,1988.08,5,9940.4,CUST-232895,Maria,Ramirez,Online Payment
+2024-05-17,yaR-310746,T-shirt,Clothing,30.0,7,210.0,CUST-772462,Jeffrey,Griffin,Online Payment
+2024-05-17,IVx-741098,Perfume,Health & Beauty,52.66,6,315.96,CUST-095056,Michael,Stephens,Cash
+2024-05-17,Ceh-640040,Cushion,Home & Garden,47.96,1,47.96,CUST-826034,Todd,Jimenez,Cash
+2024-05-17,niY-583342,T-shirt,Clothing,10.76,6,64.56,CUST-737784,Kimberly,Banks,Online Payment
+2024-05-17,WTr-209739,Blanket,Home & Garden,85.34,2,170.68,CUST-412508,Jennifer,Cruz,Cash
+2024-05-17,QdZ-033089,Perfume,Health & Beauty,110.37,5,551.85,CUST-166870,Mary,Robinson,Cash
+2024-05-17,urJ-687743,Blanket,Home & Garden,61.77,1,61.77,CUST-941398,Daniel,Baker,Debit Card
+2024-05-17,yWD-950983,Smartphone,Electronics,290.65,7,2034.55,CUST-625795,John,Marshall,Debit Card
+2024-05-17,oed-752384,Shampoo,Health & Beauty,44.34,5,221.7,CUST-324939,Michael,Smith,Online Payment
+2024-05-17,PyA-945478,Dress,Clothing,109.16,6,654.96,CUST-944366,Carl,Gordon,Cash
+2024-05-17,FLW-485347,Blanket,Home & Garden,46.38,1,46.38,CUST-935802,Phillip,Ford,Debit Card
+2024-05-17,sEk-453632,Blanket,Home & Garden,82.21,2,164.42,CUST-582708,Anthony,Howard,Credit Card
+2024-05-17,qtn-537920,Lamp,Home & Garden,55.4,7,387.8,CUST-259606,Nicholas,Lam,Debit Card
+2024-05-17,sbt-679100,Blanket,Home & Garden,30.95,2,61.9,CUST-495153,Carrie,Wells,Debit Card
+2024-05-17,eRN-083078,Action Figure,Toys & Games,97.42,6,584.52,CUST-696737,Charlene,Duncan,Debit Card
+2024-05-17,wOG-312380,Video Game,Toys & Games,55.86,3,167.58,CUST-733349,Brent,Schneider,Credit Card
+2024-05-17,Mdp-974190,Action Figure,Toys & Games,148.58,4,594.32,CUST-661383,Kristy,Reed,Debit Card
+2024-05-17,kvP-290830,Novel,Books,15.84,4,63.36,CUST-059366,Charles,Wilson,Online Payment
+2024-05-17,PAM-721557,Camera,Electronics,1335.73,6,8014.38,CUST-462430,Ronald,Jones,Online Payment
+2024-05-17,pho-138999,Science Fiction,Books,22.29,3,66.87,CUST-065647,Donald,Brown,Credit Card
+2024-05-17,WKe-440604,Video Game,Toys & Games,52.07,2,104.14,CUST-516978,Anthony,Hernandez,Credit Card
+2024-05-17,giI-179275,Biography,Books,20.97,1,20.97,CUST-765673,Jennifer,Vance,Debit Card
+2024-05-17,JEr-198834,Science Fiction,Books,16.16,1,16.16,CUST-083483,Randall,Gonzalez,Online Payment
+2024-05-17,DDk-503334,Jeans,Clothing,61.27,2,122.54,CUST-910611,Brandon,Mitchell,Cash
+2024-05-17,dZp-486037,T-shirt,Clothing,41.3,7,289.1,CUST-789171,Victoria,Knight,Online Payment
+2024-05-17,IUs-940837,Cushion,Home & Garden,26.88,3,80.64,CUST-599677,Emily,Vazquez,Online Payment
+2024-05-17,XRf-177023,Board Game,Toys & Games,52.51,9,472.59,CUST-475388,Justin,Kane,Online Payment
+2024-05-17,nzp-218741,Skin Cream,Health & Beauty,58.06,5,290.3,CUST-253989,Shawn,Black,Cash
+2024-05-17,uJN-988469,Jeans,Clothing,33.58,1,33.58,CUST-933676,Russell,Williams,Credit Card
+2024-05-17,BkJ-932677,Laptop,Electronics,708.84,4,2835.36,CUST-539436,Stephanie,Riggs,Credit Card
+2024-05-17,pGI-090998,Blanket,Home & Garden,56.03,9,504.27,CUST-282338,Donna,Parrish,Debit Card
+2024-05-17,cyX-558740,Makeup Kit,Health & Beauty,75.15,4,300.6,CUST-354508,Abigail,Hall,Online Payment
+2024-05-17,BgZ-195391,Camera,Electronics,1467.96,2,2935.92,CUST-123617,Travis,Nichols,Online Payment
+2024-05-17,peu-222954,Makeup Kit,Health & Beauty,95.22,5,476.1,CUST-540362,Paige,Avila,Cash
+2024-05-17,Dbr-840371,Chair,Home & Garden,194.06,8,1552.48,CUST-115012,Jeremy,Jones,Credit Card
+2024-05-17,MLz-670848,Science Fiction,Books,25.18,7,176.26,CUST-072460,Connor,Nelson,Cash
+2024-05-17,Alq-941434,Puzzle,Toys & Games,37.12,9,334.08,CUST-371149,Mary,Mitchell,Cash
+2024-05-17,JWd-352885,Makeup Kit,Health & Beauty,24.41,2,48.82,CUST-838209,Ralph,Morales,Online Payment
+2024-05-17,ELJ-022472,T-shirt,Clothing,25.59,9,230.31,CUST-311630,Denise,Roberson,Credit Card
+2024-05-17,Jcy-280964,Makeup Kit,Health & Beauty,20.07,7,140.49,CUST-454311,Adam,Anderson,Credit Card
+2024-05-17,Inx-254720,Sneakers,Clothing,170.59,8,1364.72,CUST-963863,Benjamin,Clark,Cash
+2024-05-17,QRK-599120,Headphones,Electronics,57.42,9,516.78,CUST-822882,Michael,Richmond,Cash
+2024-05-17,DnN-124720,Cushion,Home & Garden,13.61,1,13.61,CUST-129287,Danielle,Castillo,Cash
+2024-05-17,SQF-868695,Perfume,Health & Beauty,154.65,2,309.3,CUST-280481,Joshua,Walker,Credit Card
+2024-05-17,SKK-239527,Science Fiction,Books,24.54,8,196.32,CUST-758704,Donald,Dixon,Credit Card
+2024-05-17,WWI-275839,Smartphone,Electronics,576.21,6,3457.26,CUST-275179,Lisa,Robinson,Cash
+2024-05-17,GCH-016972,Biography,Books,20.22,2,40.44,CUST-441573,Tamara,Hernandez,Credit Card
+2024-05-17,wjV-817611,Novel,Books,24.63,8,197.04,CUST-923198,John,Padilla,Credit Card
+2024-05-17,Vhn-677927,Blanket,Home & Garden,38.09,9,342.81,CUST-615713,Roberto,Johnson,Cash
+2024-05-17,UrB-273514,Laptop,Electronics,622.04,9,5598.36,CUST-367248,Julie,Klein,Cash
+2024-05-17,rIN-890608,Headphones,Electronics,188.91,4,755.64,CUST-963830,Robert,Hess,Online Payment
+2024-05-17,BXv-691167,T-shirt,Clothing,24.45,8,195.6,CUST-778140,James,Bonilla,Credit Card
+2024-05-17,mpb-213605,Video Game,Toys & Games,55.56,4,222.24,CUST-509504,Christina,Lane,Online Payment
+2024-05-17,kRj-343197,Makeup Kit,Health & Beauty,45.62,3,136.86,CUST-219761,Jennifer,Mann,Cash
+2024-05-17,IEA-414449,Lamp,Home & Garden,79.78,3,239.34,CUST-392990,Shane,Cervantes,Online Payment
+2024-05-17,CTI-788280,Sneakers,Clothing,88.82,7,621.74,CUST-911240,Danielle,Frost,Credit Card
+2024-05-17,YsQ-741064,Smartphone,Electronics,950.31,2,1900.62,CUST-056502,David,Gregory,Cash
+2024-05-17,yiL-771019,Laptop,Electronics,1065.68,9,9591.12,CUST-277986,Robert,Rodriguez,Debit Card
+2024-05-17,ovq-860570,Puzzle,Toys & Games,23.45,5,117.25,CUST-527665,Christopher,Knight,Credit Card
+2024-05-17,NkT-045613,Science Fiction,Books,16.02,5,80.1,CUST-634030,Garrett,Martinez,Online Payment
+2024-05-17,FkH-887503,Science Fiction,Books,22.33,6,133.98,CUST-719991,Andrew,Barnett,Credit Card
+2024-05-17,UEO-003612,Chair,Home & Garden,83.16,8,665.28,CUST-816151,Mary,Charles,Credit Card
+2024-05-17,hfW-086694,Biography,Books,31.98,9,287.82,CUST-546895,Katherine,Shaffer,Cash
+2024-05-17,HXl-308746,Camera,Electronics,667.09,7,4669.63,CUST-318786,Erika,Pugh,Debit Card
+2024-05-17,iTY-660358,Cushion,Home & Garden,16.07,3,48.21,CUST-158442,April,Green,Debit Card
+2024-05-17,LqP-784469,Dress,Clothing,117.1,4,468.4,CUST-807862,John,Sanchez,Cash
+2024-05-17,oeF-419363,Video Game,Toys & Games,51.82,6,310.92,CUST-949006,Thomas,Bell,Credit Card
+2024-05-17,REo-123877,Skin Cream,Health & Beauty,37.88,4,151.52,CUST-123023,Mary,Kelly,Credit Card
+2024-05-17,yoJ-533612,Jeans,Clothing,55.9,1,55.9,CUST-518972,Jose,Jackson,Credit Card
+2024-05-17,mDl-977118,Science Fiction,Books,24.88,1,24.88,CUST-869206,Deborah,Bruce,Credit Card
+2024-05-17,zNe-282390,Camera,Electronics,208.3,8,1666.4,CUST-718486,Brenda,Watson,Online Payment
+2024-05-17,Ujo-007258,Action Figure,Toys & Games,80.42,7,562.94,CUST-263716,Jennifer,Beck,Credit Card
+2024-05-17,QEo-951449,Headphones,Electronics,166.22,8,1329.76,CUST-990585,Joan,Bell,Online Payment
+2024-05-17,Fia-241951,Biography,Books,24.67,4,98.68,CUST-359519,Samantha,Potter,Online Payment
+2024-05-17,BJp-792145,Makeup Kit,Health & Beauty,99.23,1,99.23,CUST-679657,Brett,Thomas,Cash
+2024-05-17,YXP-362474,Board Game,Toys & Games,48.67,8,389.36,CUST-873143,Nathaniel,Bell,Online Payment
+2024-05-17,RCP-258129,Shampoo,Health & Beauty,16.78,6,100.68,CUST-054980,Cindy,Calderon,Cash
+2024-05-17,xXG-400552,Action Figure,Toys & Games,101.18,9,910.62,CUST-483826,Robert,Hunter,Credit Card
+2024-05-17,gyk-649223,Laptop,Electronics,1851.57,9,16664.13,CUST-884819,Frederick,Fisher,Cash
+2024-05-17,DJI-413682,History,Books,39.05,7,273.35,CUST-757181,Tammie,Williams,Cash
+2024-05-17,azw-955857,Action Figure,Toys & Games,40.29,4,161.16,CUST-841491,Brittany,Walker,Credit Card
+2024-05-17,YwV-553435,Board Game,Toys & Games,38.08,2,76.16,CUST-343189,Angela,Garcia,Credit Card
+2024-05-17,IZc-063815,Laptop,Electronics,1244.06,5,6220.3,CUST-614073,Tonya,Leonard,Cash
+2024-05-17,yMO-219269,Novel,Books,20.53,8,164.24,CUST-705734,Rachel,Davis,Online Payment
+2024-05-17,iFU-784431,Skin Cream,Health & Beauty,57.59,2,115.18,CUST-641819,Gina,Huffman,Online Payment
+2024-05-17,Den-693939,Blanket,Home & Garden,65.83,2,131.66,CUST-602757,Pamela,Dennis,Cash
+2024-05-17,jvh-308859,Puzzle,Toys & Games,16.77,3,50.31,CUST-708066,Ann,Price,Online Payment
+2024-05-17,yUD-748061,Lamp,Home & Garden,144.41,5,722.05,CUST-313494,Victor,George,Online Payment
+2024-05-17,hfg-194072,T-shirt,Clothing,37.13,8,297.04,CUST-022804,Peter,Joyce,Online Payment
+2024-05-17,wsw-843746,Biography,Books,26.49,5,132.45,CUST-676128,Stephen,Lucas,Cash
+2024-05-17,EVq-705360,Cushion,Home & Garden,47.8,1,47.8,CUST-339040,Brittany,Miles,Cash
+2024-05-17,FsC-551860,Blanket,Home & Garden,35.05,7,245.35,CUST-461690,Melissa,Chan,Cash
+2024-05-17,mnh-062261,Skin Cream,Health & Beauty,54.53,6,327.18,CUST-986855,Jonathan,Bird,Online Payment
+2024-05-17,Tul-626129,Skin Cream,Health & Beauty,64.34,3,193.02,CUST-499312,Darren,Castillo,Online Payment
+2024-05-17,QVO-674525,Chair,Home & Garden,118.52,1,118.52,CUST-549770,Bryan,Taylor,Cash
+2024-05-17,gsk-456769,Jeans,Clothing,20.99,2,41.98,CUST-718074,Joshua,Glover,Credit Card
+2024-05-17,HGl-774175,Board Game,Toys & Games,19.96,5,99.8,CUST-976731,Daniel,Pineda,Online Payment
+2024-05-17,ePu-387868,Smartphone,Electronics,887.81,8,7102.48,CUST-433022,Vincent,Holloway,Debit Card
+2024-05-17,wrD-726376,Action Figure,Toys & Games,88.8,7,621.6,CUST-828025,Brian,Jackson,Debit Card
+2024-05-17,mLV-336028,Headphones,Electronics,202.59,3,607.77,CUST-762931,Ronald,Byrd,Debit Card
+2024-05-17,wsz-866233,Lamp,Home & Garden,94.59,1,94.59,CUST-588378,Meghan,Bailey,Credit Card
+2024-05-17,CqL-073154,Biography,Books,21.57,9,194.13,CUST-046578,Brandon,Santiago,Online Payment
+2024-05-17,yhe-445304,Blanket,Home & Garden,79.06,4,316.24,CUST-784089,Tonya,Lopez,Credit Card
+2024-05-17,ERf-318816,History,Books,41.31,9,371.79,CUST-543239,Richard,Ortiz,Credit Card
+2024-05-17,fSn-681058,Sneakers,Clothing,101.78,9,916.02,CUST-113955,Trevor,Moore,Cash
+2024-05-17,pZO-123573,Skin Cream,Health & Beauty,17.48,4,69.92,CUST-322028,Jamie,Green,Online Payment
+2024-05-17,qvB-227220,Perfume,Health & Beauty,165.72,7,1160.04,CUST-923765,Aimee,Navarro,Debit Card
+2024-05-17,cir-553112,Smartphone,Electronics,730.92,6,4385.52,CUST-513889,Elizabeth,Henderson,Debit Card
+2024-05-17,WXc-479626,Blanket,Home & Garden,75.18,7,526.26,CUST-202818,Charlotte,Harrell,Online Payment
+2024-05-17,sTq-036520,Smartphone,Electronics,510.31,1,510.31,CUST-521613,Emily,Owen,Debit Card
+2024-05-17,Hml-350780,Perfume,Health & Beauty,125.68,7,879.76,CUST-118540,Lisa,Harris,Debit Card
+2024-05-17,PkI-881277,Camera,Electronics,1125.36,4,4501.44,CUST-936720,Steven,Kelly,Online Payment
+2024-05-17,wCs-503133,Sneakers,Clothing,84.22,3,252.66,CUST-888268,Sarah,Ramirez,Online Payment
+2024-05-17,LEw-536228,Novel,Books,23.1,5,115.5,CUST-933806,Carla,Austin,Debit Card
+2024-05-17,Vtr-666032,Smartphone,Electronics,601.09,1,601.09,CUST-243344,Rachel,Bradford,Debit Card
+2024-05-17,Yeg-599364,Shampoo,Health & Beauty,21.61,1,21.61,CUST-571584,Angela,Cain,Debit Card
+2024-05-17,MxE-400333,Camera,Electronics,1262.63,9,11363.67,CUST-210609,Yvonne,Larson,Online Payment
+2024-05-17,Kti-255081,Jeans,Clothing,73.64,6,441.84,CUST-876583,Paul,Benson,Credit Card
+2024-05-17,DTt-245202,History,Books,43.03,4,172.12,CUST-390770,Linda,Salazar,Credit Card
+2024-05-17,rHM-689333,Camera,Electronics,1493.94,5,7469.7,CUST-555671,Danielle,Young,Credit Card
+2024-05-17,hrm-454390,Novel,Books,17.55,1,17.55,CUST-260971,Melissa,Garcia,Debit Card
+2024-05-17,IBz-953326,Cushion,Home & Garden,36.18,7,253.26,CUST-833891,Taylor,Bonilla,Debit Card
+2024-05-17,vNQ-053827,Board Game,Toys & Games,54.75,1,54.75,CUST-458031,Cody,Goodwin,Cash
+2024-05-17,ivo-707943,Cushion,Home & Garden,12.83,8,102.64,CUST-847760,Andrew,Graves,Online Payment
+2024-05-17,ClL-189728,Science Fiction,Books,22.96,9,206.64,CUST-767036,John,Foley,Credit Card
+2024-05-17,PyK-190241,Board Game,Toys & Games,43.12,9,388.08,CUST-834058,Steven,Johnston,Debit Card
+2024-05-17,SjV-104289,Smartphone,Electronics,215.29,5,1076.45,CUST-362935,Andrea,Browning,Online Payment
+2024-05-17,obV-187529,Novel,Books,13.12,1,13.12,CUST-001202,Susan,Powell,Credit Card
+2024-05-17,sHj-297031,Video Game,Toys & Games,55.25,4,221.0,CUST-413919,Joseph,Martinez,Cash
+2024-05-17,gMz-483942,Blanket,Home & Garden,90.68,9,816.12,CUST-055914,Patricia,Burnett,Debit Card
+2024-05-17,Ctj-806149,Jeans,Clothing,33.81,5,169.05,CUST-577273,Nicole,Wagner,Cash
+2024-05-17,wzi-744101,Cushion,Home & Garden,24.08,8,192.64,CUST-631578,Wyatt,Jackson,Credit Card
+2024-05-17,EYu-537146,Action Figure,Toys & Games,131.8,5,659.0,CUST-507929,Heather,Raymond,Online Payment
+2024-05-17,uPY-974430,Dress,Clothing,87.14,8,697.12,CUST-804311,Keith,Lee,Debit Card
+2024-05-17,elG-670886,T-shirt,Clothing,20.64,4,82.56,CUST-015914,Christopher,Smith,Online Payment
+2024-05-17,LOQ-367887,Camera,Electronics,291.23,4,1164.92,CUST-020403,John,Fletcher,Cash
+2024-05-17,jxP-093241,Biography,Books,25.66,7,179.62,CUST-643527,Jermaine,Shepard,Online Payment
+2024-05-17,WgK-371067,Camera,Electronics,617.71,6,3706.26,CUST-500230,Michelle,Mcpherson,Cash
+2024-05-17,HrX-605466,Lamp,Home & Garden,137.8,7,964.6,CUST-821837,Daniel,Williams,Cash
+2024-05-17,fIZ-016060,Smartphone,Electronics,931.64,3,2794.92,CUST-136623,Kelly,Hernandez,Online Payment
+2024-05-17,VFx-555429,Laptop,Electronics,701.53,4,2806.12,CUST-065071,John,Moyer,Credit Card
+2024-05-17,DhJ-548739,Video Game,Toys & Games,55.38,7,387.66,CUST-967505,Debra,Fisher,Credit Card
+2024-05-17,ZZM-460034,Chair,Home & Garden,181.18,2,362.36,CUST-648364,Cynthia,Ellis,Debit Card
+2024-05-17,xFb-559994,History,Books,29.16,2,58.32,CUST-095892,Kevin,Baker,Debit Card
+2024-05-17,NaJ-433786,Makeup Kit,Health & Beauty,50.08,4,200.32,CUST-446643,Jennifer,Nichols,Cash
+2024-05-17,KNg-023689,Skin Cream,Health & Beauty,20.09,9,180.81,CUST-685244,Keith,Dickson,Online Payment
+2024-05-17,cBc-594378,Novel,Books,12.79,3,38.37,CUST-877341,Sheryl,Ross,Credit Card
+2024-05-17,WRe-462930,Board Game,Toys & Games,52.9,9,476.1,CUST-271927,Kevin,Powers,Online Payment
+2024-05-17,yrt-834979,Science Fiction,Books,29.85,8,238.8,CUST-037549,Kevin,Cunningham,Cash
+2024-05-17,ktV-181814,Makeup Kit,Health & Beauty,90.46,2,180.92,CUST-770093,Jonathan,Todd,Credit Card
+2024-05-17,Fln-089644,Camera,Electronics,122.12,3,366.36,CUST-297441,Jacob,Lopez,Debit Card
+2024-05-17,TWj-042546,Laptop,Electronics,1085.55,1,1085.55,CUST-645168,Rebecca,Knapp,Credit Card
+2024-05-17,XFI-632874,Blanket,Home & Garden,88.34,4,353.36,CUST-673105,Tammy,Adams,Cash
+2024-05-17,eFk-341512,Smartphone,Electronics,593.88,7,4157.16,CUST-370879,Anne,Johnson,Online Payment
+2024-05-17,rXb-754919,T-shirt,Clothing,40.88,3,122.64,CUST-398380,Carlos,Cross,Credit Card
+2024-05-17,DYs-104926,Science Fiction,Books,25.75,8,206.0,CUST-001453,Matthew,Hall,Online Payment
+2024-05-17,ITZ-968326,Makeup Kit,Health & Beauty,48.44,7,339.08,CUST-750493,Colin,Cervantes,Credit Card
+2024-05-17,lRY-229925,Smartphone,Electronics,573.12,5,2865.6,CUST-182223,Tina,Rangel,Cash
+2024-05-17,Ait-834740,Skin Cream,Health & Beauty,36.18,6,217.08,CUST-874423,Pedro,Lyons,Online Payment
+2024-05-17,ZTS-708128,Makeup Kit,Health & Beauty,60.08,8,480.64,CUST-896722,Michael,Smith,Cash
+2024-05-17,QWF-223371,Jeans,Clothing,75.11,8,600.88,CUST-570539,Kristine,Kerr,Debit Card
+2024-05-17,fZs-146337,Lamp,Home & Garden,59.5,5,297.5,CUST-606361,Theresa,Sullivan,Credit Card
+2024-05-17,Mok-457777,Chair,Home & Garden,139.33,6,835.98,CUST-924512,Dennis,Brown,Debit Card
+2024-05-17,jEI-665757,Laptop,Electronics,805.97,8,6447.76,CUST-198235,Kenneth,Cohen,Debit Card
+2024-05-17,gCF-848973,Blanket,Home & Garden,17.9,8,143.2,CUST-530767,Scott,Rogers,Credit Card
+2024-05-17,vYF-697898,T-shirt,Clothing,20.73,6,124.38,CUST-686183,Rachel,Nelson,Credit Card
+2024-05-17,HRB-553009,Cushion,Home & Garden,7.02,8,56.16,CUST-983153,Jorge,Nelson,Online Payment
+2024-05-17,LiU-847548,Perfume,Health & Beauty,161.3,7,1129.1,CUST-575866,Autumn,Patterson,Credit Card
+2024-05-17,lex-189899,Camera,Electronics,759.1,9,6831.9,CUST-738676,Corey,Edwards,Online Payment
+2024-05-17,bkJ-562097,Jeans,Clothing,89.6,2,179.2,CUST-961097,Donna,Duncan,Debit Card
+2024-05-17,MIM-529660,Board Game,Toys & Games,54.61,6,327.66,CUST-910456,Steven,Hess,Online Payment
+2024-05-17,jvo-700106,Novel,Books,12.99,8,103.92,CUST-564072,Mary,Thornton,Credit Card
+2024-05-17,RgI-745392,Lamp,Home & Garden,67.15,9,604.35,CUST-429113,Robert,Miles,Debit Card
+2024-05-17,YMy-889630,Novel,Books,24.49,9,220.41,CUST-706546,Theresa,White,Online Payment
+2024-05-17,ZZc-674073,Skin Cream,Health & Beauty,73.55,7,514.85,CUST-794955,Samuel,Wilson,Cash
+2024-05-17,Hbh-736602,Makeup Kit,Health & Beauty,20.43,5,102.15,CUST-753480,Stacy,Morales,Online Payment
+2024-05-17,Ayi-006638,Laptop,Electronics,1873.66,6,11241.96,CUST-892063,Erin,Berry,Cash
+2024-05-17,xDg-847014,Biography,Books,19.48,8,155.84,CUST-898396,Elizabeth,Smith,Credit Card
+2024-05-17,fcX-083955,Perfume,Health & Beauty,42.51,9,382.59,CUST-362905,Melinda,Sandoval,Credit Card
+2024-05-17,DOV-735593,Shampoo,Health & Beauty,29.23,3,87.69,CUST-544665,Jessica,Carpenter,Credit Card
+2024-05-17,Ilt-420801,Lamp,Home & Garden,68.64,1,68.64,CUST-582359,Sonya,Yang,Debit Card
+2024-05-17,Kac-152715,Biography,Books,27.42,8,219.36,CUST-005179,Paul,Case,Online Payment
+2024-05-17,FyX-760431,T-shirt,Clothing,20.13,9,181.17,CUST-642816,Thomas,Wang,Cash
+2024-05-17,HEv-789400,Video Game,Toys & Games,57.65,3,172.95,CUST-685127,Katelyn,Miller,Debit Card
+2024-05-17,CsG-660201,Headphones,Electronics,80.57,9,725.13,CUST-704020,Gregory,Proctor,Online Payment
+2024-05-17,cCB-829166,Shampoo,Health & Beauty,9.83,2,19.66,CUST-696569,Amanda,Martinez,Credit Card
+2024-05-17,RBG-070721,Skin Cream,Health & Beauty,74.31,1,74.31,CUST-938529,David,Jarvis,Debit Card
+2024-05-17,AuQ-139117,Lamp,Home & Garden,65.08,6,390.48,CUST-819560,Kevin,Gregory,Credit Card
+2024-05-17,brV-525555,Skin Cream,Health & Beauty,23.5,2,47.0,CUST-840693,Crystal,Webster,Credit Card
+2024-05-17,vVb-980330,Smartphone,Electronics,984.0,6,5904.0,CUST-153064,Jennifer,Baird,Debit Card
+2024-05-17,fRW-064028,Science Fiction,Books,21.12,8,168.96,CUST-070669,Barbara,Rodriguez,Online Payment
+2024-05-17,ppk-828666,Shampoo,Health & Beauty,21.12,8,168.96,CUST-330975,Courtney,Bolton,Debit Card
+2024-05-17,Pce-802032,Camera,Electronics,1155.53,1,1155.53,CUST-896032,Lawrence,Singh,Credit Card
+2024-05-17,BZD-469523,Skin Cream,Health & Beauty,10.82,3,32.46,CUST-659849,Jennifer,Barr,Online Payment
+2024-05-17,szv-307900,Laptop,Electronics,1402.3,4,5609.2,CUST-108015,Amy,Chan,Cash
+2024-05-17,aIh-239763,Smartphone,Electronics,250.33,3,750.99,CUST-407548,Michelle,Carter,Credit Card
+2024-05-17,zkL-075980,Video Game,Toys & Games,58.24,3,174.72,CUST-474012,Jessica,Cross,Debit Card
+2024-05-17,qdH-866887,Headphones,Electronics,193.66,3,580.98,CUST-909096,Willie,Wilson,Online Payment
+2024-05-17,AXU-871991,Puzzle,Toys & Games,10.37,4,41.48,CUST-362868,John,Wells,Debit Card
+2024-05-17,Hmt-113562,Biography,Books,21.22,6,127.32,CUST-623516,Mark,Hall,Online Payment
+2024-05-17,jxf-053084,Lamp,Home & Garden,128.3,4,513.2,CUST-450291,Brett,Jensen,Online Payment
+2024-05-17,ueL-446922,Perfume,Health & Beauty,86.53,5,432.65,CUST-200673,Lisa,Thomas,Online Payment
+2024-05-17,ptA-724768,Perfume,Health & Beauty,93.71,2,187.42,CUST-926239,Nicole,Campos,Cash
+2024-05-17,qSw-882215,Camera,Electronics,1431.73,4,5726.92,CUST-011234,Matthew,Hill,Online Payment
+2024-05-17,Icx-473446,History,Books,28.85,7,201.95,CUST-900735,Vincent,Preston,Cash
+2024-05-17,NDY-905094,History,Books,33.72,8,269.76,CUST-281186,Paul,Ferguson,Online Payment
+2024-05-17,JHJ-418698,Dress,Clothing,89.99,9,809.91,CUST-168943,Ryan,Martin,Online Payment
+2024-05-17,Oqm-061925,Cushion,Home & Garden,10.26,8,82.08,CUST-090389,Brianna,White,Credit Card
+2024-05-17,fdq-900720,Dress,Clothing,136.3,1,136.3,CUST-353585,Kevin,Roberts,Cash
+2024-05-17,uZR-190013,Chair,Home & Garden,44.51,3,133.53,CUST-936872,Peter,Walters,Online Payment
+2024-05-17,CRt-380471,Jeans,Clothing,76.07,4,304.28,CUST-831256,April,Hamilton,Online Payment
+2024-05-17,mui-161041,Biography,Books,16.65,9,149.85,CUST-065718,Christie,Ortiz,Debit Card
+2024-05-17,ZIs-386032,Perfume,Health & Beauty,160.46,8,1283.68,CUST-896174,Jennifer,Robinson,Debit Card
+2024-05-17,daM-425326,T-shirt,Clothing,38.3,4,153.2,CUST-340214,Melissa,Davidson,Cash
+2024-05-17,TmU-626801,Science Fiction,Books,17.45,4,69.8,CUST-230983,Monique,Perkins,Cash
+2024-05-17,VrC-455140,Cushion,Home & Garden,43.98,4,175.92,CUST-209242,Barbara,Wood,Online Payment
+2024-05-17,oxy-466723,Blanket,Home & Garden,93.79,1,93.79,CUST-420759,Todd,Berry,Debit Card
+2024-05-17,PTR-088445,Chair,Home & Garden,61.08,2,122.16,CUST-808524,Craig,Barnes,Online Payment
+2024-05-17,BUH-508918,Lamp,Home & Garden,39.3,9,353.7,CUST-935226,Luis,Johnson,Debit Card
+2024-05-17,EsX-751385,Camera,Electronics,475.73,3,1427.19,CUST-247195,Paul,Ferrell,Credit Card
+2024-05-17,EYI-440063,Puzzle,Toys & Games,32.37,9,291.33,CUST-320189,John,Cook,Online Payment
+2024-05-17,dPH-239185,Novel,Books,13.58,5,67.9,CUST-109171,Ashley,Potts,Credit Card
+2024-05-17,Bzz-556317,Perfume,Health & Beauty,25.03,2,50.06,CUST-843829,Lisa,Ryan,Online Payment
+2024-05-17,HcO-649054,Headphones,Electronics,105.36,4,421.44,CUST-195058,Pamela,Johnson,Online Payment
+2024-05-17,TnU-005802,Smartphone,Electronics,855.56,5,4277.8,CUST-596296,Ashley,Buck,Credit Card
+2024-05-17,UMw-832467,Chair,Home & Garden,30.16,5,150.8,CUST-959500,Robert,Curtis,Cash
+2024-05-17,Kqg-612012,Shampoo,Health & Beauty,31.95,4,127.8,CUST-799575,Tina,Sanchez,Online Payment
+2024-05-17,Xwo-695725,Jeans,Clothing,49.67,7,347.69,CUST-046190,Natalie,Acosta,Credit Card
+2024-05-17,pVb-682801,Science Fiction,Books,11.35,4,45.4,CUST-970436,Rebecca,Scott,Debit Card
+2024-05-17,fYT-764388,Novel,Books,15.39,6,92.34,CUST-571136,James,Hayes,Cash
+2024-05-17,IhV-721143,Headphones,Electronics,136.34,3,409.02,CUST-286095,Gary,Jones,Debit Card
+2024-05-17,Lyp-854767,Camera,Electronics,1435.08,4,5740.32,CUST-617055,Destiny,Contreras,Online Payment
+2024-05-17,Soc-700388,Puzzle,Toys & Games,15.93,3,47.79,CUST-581653,Patricia,Martinez,Online Payment
+2024-05-17,bKH-030867,Blanket,Home & Garden,38.2,1,38.2,CUST-090637,Pamela,Robinson,Debit Card
+2024-05-17,qcR-624223,Makeup Kit,Health & Beauty,83.26,6,499.56,CUST-738432,Robert,Garcia,Credit Card
+2024-05-17,Zoc-384680,Perfume,Health & Beauty,157.04,4,628.16,CUST-437179,Gina,Mccann,Debit Card
